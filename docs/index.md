@@ -5,6 +5,5 @@ This wiki template was built using [Material for MkDocs](https://squidfunk.githu
 Should you decide to use this wiki, however, we have a [tutorial](https://wiki.idec.io/team_wiki/mkdocs.html) to walk you through the basics.
 
 THE SUPERGRINDER
-[![Watch the video](https://img.youtube.com/vi/t6USKgW261w/maxresdefault.jpg)](https://player.vimeo.com/video/t6USKgW261w)
+[![Watch the video](https://img.youtube.com/vi/t6USKgW261w/maxresdefault.jpg)](https://youtube.com/video/t6USKgW261w)
 
-#https://player.vimeo.com/video/<VIDEO_ID>
