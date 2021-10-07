@@ -9,4 +9,4 @@ THE SUPERGRINDER
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6USKgW261w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![The SuperGrinder](https://yt-embed.herokuapp.com/embed?t6USKgW261w)](https://www.youtube.com/watch?t6USKgW261w "The SuperGrinder")
+[![The SuperGrinder](https://yt-embed.herokuapp.com/embedt6USKgW261w)](https://www.youtube.com/watcht6USKgW261w "The SuperGrinder")
