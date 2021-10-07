@@ -7,8 +7,7 @@ Should you decide to use this wiki, however, we have a [tutorial](https://wiki.i
 THE SUPERGRINDER
 [![Watch the video](https://img.youtube.com/vi/t6USKgW261w/maxresdefault.jpg)](https://youtube.com/video/t6USKgW261w)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t6USKgW261w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<body>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t6USKgW261w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![The SuperGrinder](https://yt-embed.herokuapp.com/embedt6USKgW261w)](https://www.youtube.com/watcht6USKgW261w "The SuperGrinder")
-
-<iframe width="500" height="300" src="https://www.youtube.com/embed/t6USKgW261w" frameborder="0" allowfullscreen></iframe>
+</body>
