@@ -7,4 +7,4 @@ Should you decide to use this wiki, however, we have a [tutorial](https://wiki.i
 THE SUPERGRINDER
 [![Watch the video](https://img.youtube.com/vi/t6USKgW261w/maxresdefault.jpg)](https://youtube.com/video/t6USKgW261w)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t6USKgW261w/0.jpg)](https://www.youtube.com/watch?v=t6USKgW261w)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6USKgW261w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
