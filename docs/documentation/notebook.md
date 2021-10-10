@@ -5,7 +5,7 @@
 1. Prepare 0.1 MgCl2 and 0.1 M CaCl2 for competent cells
 2. Prepare 50 mg/mL Kanamycin
 3. Prepare LB/agar plates: (-), carb, kan
-4. Inoculate DH5 with level 0 parts
+4. Inoculate DH5a with level 0 parts
 	- pJUMP19 – T7 pro\_P
 	- pJUMP18 – B0034-MV\_RN
 	- pJUMP19 – L1U1H08\_CT
