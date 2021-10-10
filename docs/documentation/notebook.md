@@ -2,15 +2,15 @@
 
 ## 6 September 2021
 
-1. Prepare 0.1 MgCl2 and 0.1 M CaCl2 for competent cells
-2. Prepare 50 mg/mL Kanamycin
-3. Prepare LB/agar plates: (-), carb, kan
-4. Inoculate DH5a with level 0 parts
-	- pJUMP19 – T7 pro\_P
-	- pJUMP18 – B0034-MV\_RN
-	- pJUMP19 – L1U1H08\_CT
+	1. Prepare 0.1 MgCl2 and 0.1 M CaCl2 for competent cells
+	2. Prepare 50 mg/mL Kanamycin
+	3. Prepare LB/agar plates: (-), carb, kan
+	4. Inoculate DH5a with level 0 parts
+		- pJUMP19 – T7 pro\_P
+		- pJUMP18 – B0034-MV\_RN
+		- pJUMP19 – L1U1H08\_CT
 
-5. Nanodrop of OR library (Level 0)
+	5. Nanodrop of OR library (Level 0)
 
 | Sample | ng/uL |
 | --- | --- |
@@ -22,11 +22,11 @@
 
 ## 7 September 2021
 
-1. Plasmid prep of Level 0 parts
-2. Prepare 60% glycerol
-3. Inoculate _E. coli_ BL21 (DE3) and _E. coli_ (DH5a)
-4. Streak Level 0 cells on LB/agar plates
-5. JUMP assembly of OR library
+	1. Plasmid prep of Level 0 parts
+	2. Prepare 60% glycerol
+	3. Inoculate _E. coli_ BL21 (DE3) and _E. coli_ (DH5a)
+	4. Streak Level 0 cells on LB/agar plates
+	5. JUMP assembly of OR library
 
 |Part | ng/uL | bp | fmol/uL |uL plasmid | uL DIW |
 | --- | --- | --- | --- | :---: |:---: |
