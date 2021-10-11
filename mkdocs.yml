@@ -43,7 +43,10 @@ nav:
   - Team: team.md
   - Project:
       - Background: project/background.md
-      - Results: project/results.md
+      - Introduction: project/Introduction.md
+      - Results: 
+        - SeSaM resuts: project/results/SeSam results.md
+        - GeneORator results: project/results/GeneORator results.md
   - Documentation:
       - Protocols: documentation/protocols.md
       - Lab notebook: documentation/notebook.md
