@@ -1,7 +1,7 @@
-# Our Team
+# **Our Team**
 The University of Edinburgh iDEC is based in the Institute of Quantitative Biology, Biochemistry and Biotechnology (IQB3) which brings together a range of backgrounds to tackle fundamental questions in biology and to develop biology-based solutions to real-world problems.
 
-## Team Lead
+## **Team Lead**
 
 **Charles Wackwitz**
 
@@ -9,7 +9,7 @@ The University of Edinburgh iDEC is based in the Institute of Quantitative Biolo
 
 Charles is a Dutch national, a graduate in BSc Biotechnology from University College London and a recent graduate in MSc Synthetic Biology and Biotechnology from the University of Edinburgh. His interests lie in the practical application of our knowledge of biology and the environment in developing a truly fair and sustainable circular bioeconomy.
 
-## Team Players
+## **Team Players**
 
 **Danghatai (Baifern) Wongthanaroj**
 
@@ -32,7 +32,7 @@ Finn is a British national and a recent graduate from the MSc programme in Synth
 
 Davide is a passionate Italian from Turin where he did his undergraduate degree in BSc Biology at the University of Turin. Having also recently graduated with an MSc in Synthetic Biology and Biotechnology, Davide is a visionary scientist with a keen interest in artistic applications of synthetic biology and genetic engineering to biodesign, as well as a keen interest in plant synthetic biology.
 
-## Supervisors
+## **Supervisors**
 
 **Chris French**
 
