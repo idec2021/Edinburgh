@@ -40,11 +40,11 @@ copyright: Copyright &copy; 2021 iDEC. CC-BY-4.0 | The International Directed Ev
 
 #demobox {
   width: 300px;
-	height: 200px;
+  height: 200px;
   background-color: #1c6657 ;
   padding: 30px ;
   font: 100%/1.4 sans-serif;
-	text-shadow: 0 1px 1px white;
+  text-shadow: 0 1px 1px white;
 }
 
 nav:
@@ -54,8 +54,8 @@ nav:
       - Background: project/background.md
       - Introduction: project/Introduction.md
       - Results: 
-        - SeSaM resuts: project/results/SeSam results.md
-        - GeneORator results: project/results/GeneORator results.md
+        - SeSaM resuts: project/results/SeSamresults.md
+        - GeneORator results: project/results/GeneORatorresults.md
   - Documentation:
       - Protocols: documentation/protocols.md
       - Lab notebook: documentation/notebook.md
