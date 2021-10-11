@@ -47,4 +47,5 @@ nav:
   - Documentation:
       - Protocols: documentation/protocols.md
       - Lab notebook: documentation/notebook.md
+      - Blah : documentation/blah.md
   - Some useful features: useful_features.md
