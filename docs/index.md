@@ -1,4 +1,4 @@
-# **iDEC 2021 | Edinburgh**<img width="220" src="https://user-images.githubusercontent.com/92064762/136870830-c3411954-7b6e-476d-bc8c-be33a24dab1f.png" img align= "right">
+# **iDEC 2021 | Edinburgh**<img width="230" src="https://user-images.githubusercontent.com/92064762/136870830-c3411954-7b6e-476d-bc8c-be33a24dab1f.png" img align= "right">
 
 <div style="text-align: justify">
 <h2><strong>Library Generation Method Development for the Directed Evolution of Enzymes Related to Recalcitrant Polymer Degradation.</strong></h2>
