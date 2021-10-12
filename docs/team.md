@@ -1,6 +1,6 @@
 # **Our Team**
 <div style="text-align: justify">
-The University of Edinburgh iDEC is based in the Institute of Quantitative Biology, Biochemistry and Biotechnology (IQB3) which brings together a range of backgrounds to tackle fundamental questions in biology and to develop biology-based solutions to real-world problems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The University of Edinburgh iDEC is based in the Institute of Quantitative Biology, Biochemistry and Biotechnology (IQB3) which brings together a range of backgrounds to tackle fundamental questions in biology and to develop biology-based solutions to real-world problems.
 </div>
 
 ## **Team Lead**
