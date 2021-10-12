@@ -43,8 +43,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The team optimised a variety of technicalities throughout the SeSaM protocol in a way that makes the method more reproducible for future research interested in random mutagenesis library creation for protein directed evolution. SeSaM is an uncommon method and underreported in literature. We hope that our experience can increase its use in research. Our method can now be viewed in our Protocol page. Additionally, the team generated an alternative to the SeSaM process which seeks to decrease the cost of the method, thereby increasing the accessibility of the method to more laboratories with an interest in directed evolution. Owing to the high cost of the α-thio deoxynucleotides potentially creating a barrier to entry of the method, we have developed and optimised an alternative to the DNA shearing method using a standard sonicator. The sonicator, a typical device found in biological laboratories to lyse cells, and similarly shear DNA randomly throughout the gene. This was proven to be successful in generating a mutant library for our gene of interest and represents a novel undertaking in the directed evolution space.
 </div>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/m_jL2ujURi0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
 ## **Rational Design Mutagenesis**
 
 <div style="text-align: justify">
