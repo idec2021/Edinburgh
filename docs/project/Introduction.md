@@ -45,9 +45,16 @@
 ## **Rational Design Mutagenesis**
 
 <div style="text-align: justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rational design mutagenesis targets specific amino acid residues of the protein of interest based on prior publicly-available data and information. The use of degenerate NNK codons, where N can be any standard nucleotide (A, T, G or C) and K the keto-group containing nucleotides (T or G), renders this methodology semi-rational, due to the saturation of the residue with all 20 canonical amino acids. Relevant to this project is the targeting of the residues comprising the secondary shell of the active site. It is understood that by coordinating the active site of the enzyme, but not the conserved catalytic amino acid residues themselves, the activity of the enzyme can be increased (1). A method devised by Sadler and colleagues was followed to generate the library for future screening efforts (2).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rational design mutagenesis targets specific amino acid residues of the protein of interest based on prior publicly-available data and information. The use of degenerate NNK codons, where N can be any standard nucleotide (A, T, G or C) and K the keto-group containing nucleotides (T or G), renders this methodology semi-rational, due to the saturation of the residue with all 20 canonical amino acids. Relevant to this project is the targeting of the residues comprising the secondary shell of the active site. It is understood that by coordinating the active site of the enzyme, but not the conserved catalytic amino acid residues themselves, the activity of the enzyme can be increased [1]. A method devised by Sadler and colleagues was followed to generate the library for future screening efforts [2].
 </div>
 <br>
 <div style="text-align: justify">
 <em><strong>Figure 2 Schematic Representation of GeneORator Library Generation using Mutagenic Primers.</strong> An asymmetric PCR (A) involving a limiting amount of mutagenic forward primers was combined with the Cex reverse primer to generate single stranded mutagenic reverse primers. The mutagenic megaprimer was then quantified and set up in a subsequent PCR (B) with the Cex forwards primer to produce rationally designed mutant library. Adapted from Sadler et al. (2018).</em>
 </div>
+<br>
+  References:
+  <em>
+  <div style="text-align: justify">
+  [1] Lee M, Rozeboom HJ, Keuning E, de Waal P, Janssen DB. Structure-based directed evolution improves S. cerevisiae growth on xylose by influencing in vivo enzyme performance. Biotechnol Biofuels 2020 131 [Internet]. 2020 Jan 11 [cited 2021 Aug 12];13(1):1–18. Available from: https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-019-1643-0</div>
+  <div style="text-align: justify">
+  [2] Sadler JC, Green L, Swainston N, Kell DB, Currin A. Fast and Flexible Synthesis of Combinatorial Libraries for Directed Evolution. Methods Enzymol. 2018 Jan 1;608:59–79.</div></em>
