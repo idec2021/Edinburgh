@@ -31,7 +31,6 @@ Finn is a British national and a recent graduate from the MSc programme in Synth
 **Davide Annese**
 
 <img width = "500" src = "https://user-images.githubusercontent.com/92064762/136864437-f7139fc3-89ea-4c80-82c6-6952347b8d2e.JPG">
-<img width = "500" src = "https://user-images.githubusercontent.com/92064762/136865053-f2109427-f087-4f23-9b84-a7b2f1ebb872.JPG">
 <div style="text-align: justify">
 Davide is a passionate Italian from Turin where he did his undergraduate degree in BSc Biology at the University of Turin. Having also recently graduated with an MSc in Synthetic Biology and Biotechnology, Davide is a visionary scientist with a keen interest in artistic applications of synthetic biology and genetic engineering to biodesign, as well as a keen interest in plant synthetic biology.
 </div>
