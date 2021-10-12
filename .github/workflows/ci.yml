@@ -13,3 +13,9 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force --config-file ./mkdocs.yml
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create folder
+        run: mkdir -p results && cp -R dist results
+          ls results
