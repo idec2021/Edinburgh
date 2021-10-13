@@ -1,11 +1,11 @@
 # SeSaM method optimisation
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray";background-color:gray> </hr>
 
 ## **Objective**
 <div style="text-align: justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To improve upon the mutational spectrum of error-prone polymerase chain reaction (epPCR) in generating libraries through the optimisation of the sequence saturation mutagenesis (SeSaM) protocol to induce mutations uncommon to Taq polymerase. Additionally, generate a semi-rationally designed mutant library for the eventual identification of positive variants capable of degrading recalcitrant polymers related to industrially relevant waste streams.
 </div>
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray";background-color:gray> </hr>
 
 ## **Results**
 
