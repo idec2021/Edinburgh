@@ -77,13 +77,16 @@
 <div style="text-align: justify">
 <em><strong>Figure 7 Final PCR product obtained from the optimised SeSaM.</strong> The Cex-alphaS full-length and Cex-sonicated full-length were loaded on gel in the equivalent amount as in the PCR mixture. pJUMP19_Cex was amplified as a positive control and both Cex-alphaS and Cex-sonicated were set in a PCR with three different concentrations of template: 1 ng, 30 ng, and 60 ng. The sample fragmented by sonication was successfully produced, however the sample fragmented by dATPαS always appeared as a smear for an unknown reason.</em></div>
 <br>
+
+## *Mutant library sequencing*
+
 <div style="text-align: justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The resulting product was successfully assembled via Golden Gate assembled and cloned into <em>E. coli</em> DH5a. Colonies with successful colony PCR results were plasmid prepped and sent for sequencing for the confirmation of mutations with the gene.</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The resulting product was successfully assembled via Golden Gate assembled and cloned into <em>E. coli</em> DH5a. Colonies with successful colony PCR results were plasmid extracted and sent for sequencing for the confirmation of mutations with the gene.</div>
 
 <center><img width = "600" src ="https://user-images.githubusercontent.com/92064762/137060078-e21e1a7d-f357-46c7-859c-7b1748b1db71.png"></center>
 
 <div style="text-align: justify">
-<em><strong>Figure 8 Mutational Spectrum of the Optimised SeSaM Method with Novel Sonication Shearing.</strong> (A) Number and types of mutation found per clone sequenced. (B) Total types of mutations found from sequencing of mutants.</em></div>
+<em><strong>Figure 8 Mutational Spectrum of the Optimised SeSaM Method with Novel Sonication Shearing.</strong> (A) Number and types of mutation found per clone sequenced, '°' represents clone with double mutations (B) Total types of mutations found from sequencing of mutants.</em></div>
 <br>
 
 [Back to top](#)
