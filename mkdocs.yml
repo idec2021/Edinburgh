@@ -33,7 +33,7 @@ extra_javascript:
   - javascripts/tables.js
   
   #For flowchart: https://cdn.jsdelivr.net/npm/mermaid/dist/
-  - mermaid.min.js
+  - mermaid.js
 
 edit_uri: blob/main/docs/
 
