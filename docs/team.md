@@ -5,7 +5,7 @@
 </div>
 
 ## **Team Lead**
-<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
 **Charles Wackwitz**
 
@@ -15,7 +15,7 @@ Charles is a Dutch national, a graduate in BSc Biotechnology from University Col
 </div>
 
 ## **Team Players**
-<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
 **Danghatai (Baifern) Wongthanaroj**
 
@@ -39,7 +39,7 @@ Davide is a passionate Italian from Turin where he did his undergraduate degree 
 </div>
 
 ## **Supervisors**
-<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
 **Chris French**
 
