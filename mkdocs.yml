@@ -59,6 +59,3 @@ nav:
       - Protocols: documentation/protocols.md
       - Lab notebook: documentation/notebook.md
   - Some useful features: useful_features.md
-
-- name: Compile Mermaid Markdown
-  uses: neenjaw/compile-mermaid-markdown-action@v0.3.3
