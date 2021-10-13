@@ -33,7 +33,6 @@
 <div style="text-align: justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The desired 1363 bp product was extracted using a gel extraction kit, quantified, and cloned into a level 1 expression vector using Golden Gate assembly.</div>
 <br>
-
 ## *Mutant Library DNA Sequencing*
 
 <div style="text-align: justify">
@@ -57,8 +56,9 @@
 <div style="text-align: justify">
 <em><strong>Figure 5 Xylanase Screening of GeneORator Mutant Library.</strong> (A) (i-ii) positive controls of wildtype Cex, (iii) empty vector negative control. (B) (i) B200 mutant library, 65% of white colonies creating zones of clearing assumed to harbour functional Cex mutant (ii-iii) B230 mutant library, no functional Cex mutant is observed (C) (i-iii) S280 mutant library, 80% of white colonies creating zones of clearing assumed to harbour functional Cex mutant.</em></div>
 <br>
-<em><div style="text-align: justify">
+<em>
 Reference:
+<div style="text-align: justify">
 1. Lee M, Rozeboom HJ, Keuning E, de Waal P, Janssen DB. Structure-based directed evolution improves S. cerevisiae growth on xylose by influencing in vivo enzyme performance. Biotechnol Biofuels 2020 131 [Internet]. 2020 Jan 11 [cited 2021 Aug 12];13(1):1–18. Available from: https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-019-1643-0
 </div></em>
 <br>
