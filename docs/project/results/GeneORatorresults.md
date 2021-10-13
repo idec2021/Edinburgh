@@ -12,6 +12,9 @@
 <div style="text-align: justify">
 <em><strong>Figure 1 Semi-rational  mutant library design.</strong> Figure generated on Protein Contact Atlas, PDB code: 2HIS. The size of the circles represents the number of contacts the residue has with the residues of the inner shell. Groups with a high average number of contacts include: B40, B80, B200, B230 and B280. Groups with a low average number of contacts include: S170 and S280. B: group with high number of contacts with the primary shell, S: group with low number of contacts with primary shell.</em></div>
 <br>
+
+## *OR-type Mutant Library Generation*
+
 <div style="text-align: justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first PCR is set as an asymmetric PCR, in which the Cex reverse primer is 20x more concentrated than the mutagenic forwards primer. This generates a primarily single stranded PCR product, known as a mutagenic megaprimer, of varying lengths with the induced mutation incorporated. The length of the mutagenic megaprimer is set by the length of the full-length gene minus the position of the first annealing base pair (Figure 2).</div>
 <br>
