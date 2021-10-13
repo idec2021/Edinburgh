@@ -53,7 +53,7 @@ nav:
       - Background: project/background.md
       - Introduction: project/Introduction.md
       - Results: 
-        - SeSaM resuts: project/results/SeSamresults.md
+        - SeSaM resuts: project/results/SeSaMresults.md
         - GeneORator results: project/results/GeneORatorresults.md
   - Documentation:
       - Protocols: documentation/protocols.md
