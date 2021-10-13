@@ -4,7 +4,7 @@
 ## *Mutant Library Design*
 
 <div style="text-align: justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Residues of the secondary shell active site were selected for saturation mutagenesis using Protein Contact Atlas (PDB code: 2HIS), selecting the innermost cellobioside substrate (GLC602) as the centre of the active site. The residues were then grouped together if the residues appeared closely together in the protein primary sequence, therefore denoting regions close to the active site pocket. These residues were chosen Following a study by Lee et al. (2020) on the directed evolution of xylose isomerase from Piromyces for improved catalytic activity (1). The groups were also formed based on the number of contacts they had with the active site to gauge the impact of such factors on enzymatic activity.</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Residues of the secondary shell active site were selected for saturation mutagenesis using Protein Contact Atlas (PDB code: 2HIS), selecting the innermost cellobioside substrate (GLC602) as the centre of the active site. The residues were then grouped together if the residues appeared closely together in the protein primary sequence, therefore denoting regions close to the active site pocket. These residues were chosen Following a study by Lee et al. (2020) on the directed evolution of xylose isomerase from Piromyces for improved catalytic activity [1]. The groups were also formed based on the number of contacts they had with the active site to gauge the impact of such factors on enzymatic activity.</div>
 <br>
 
 <center><img width = "550" src ="https://user-images.githubusercontent.com/92064762/137063279-7518bb3b-0607-48cf-9cbc-33979c87c3d7.png"></center>
