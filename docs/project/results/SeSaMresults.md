@@ -14,6 +14,8 @@
 <div style="text-align: justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to obtain results, the original SeSaM protocol was followed. However, the team experienced difficulty in generating a library using the protocol available in the literature. The team therefore sought to optimise the procedure, and to develop a lower cost alternative for future directed evolution studies.</div>
 
+## *DNA Fragmentation: dATPaS Concentration &amp; Novel Sonication Calibration*
+
 <div style="text-align: justify">
 <em><strong>Figure 1 SeSaM iodofragmentation optimization.</strong> A truncated pyruvate oxidase gene (_pox5_, 1606 bp) was utilized to demonstrate the fragmentation of DNA incorporated with dATPαS. Iodine concentrations was varied according to the two SeSaM protocol. Samples incubated with a higher iodine show greater smearing which further promoted when incubating at 70 °C</em></div>
 <br>
