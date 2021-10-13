@@ -34,6 +34,7 @@ extra_javascript:
   
   #For flowchart: https://cdn.jsdelivr.net/npm/mermaid/dist/
   - mermaid.js
+  - mermaid.initialize()
 
 edit_uri: blob/main/docs/
 
