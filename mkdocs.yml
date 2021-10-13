@@ -31,6 +31,9 @@ extra_javascript:
   # For sortable data tables: https://squidfunk.github.io/mkdocs-material/reference/data-tables/
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
+  
+  #For flowchart: https://cdn.jsdelivr.net/npm/mermaid/dist/
+  - mermaid.min.js
 
 edit_uri: blob/main/docs/
 
