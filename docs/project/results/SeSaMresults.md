@@ -60,7 +60,7 @@
 <em><strong>Figure 5 Fragmentation of DNA by Number of Sonication Cycles.</strong> 2% agarose gel showing the fragmented DNA after sonication. (1) 100 bp Promega DNA ladder, (2-10) 0 - 8 cycles of sonication: pulse on 15 sec, pulse off 60 sec, 20% amplitude.</em></div>
 <br>
 
-## *SeSaM mutant library generation*
+## *SeSaM Mutant Library Generation*
 <div style="text-align: justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The generation of a mutant library using the phosphorothioate dATP was tracked using gel electrophoresis (Figure 6). Using the aforementioned optimised protocol, both full-length forward 5&#39;-biotinylated DNA and the reverse 5&#39;-biotinylated DNA template were successfully achieved in a sufficient amount to proceed. Unfortunately, the final PCR step, in which the universal base is replaced with standard nucleotides, failed to produce the expected PCR product. The reaction was repeatedly modified by changing several conditions including the annealing temperature, quantity of full-length gene template, and additionally purifying DNA with ethanol precipitation. However, the PCR product was observed as a smear on the agarose gel, and not as a full-length gene product as expected. The method was assumed to have failed for this reason.</div>
 <br>
@@ -80,7 +80,7 @@
 <em><strong>Figure 7 Final PCR product obtained from the optimised SeSaM.</strong> The Cex-alphaS full-length and Cex-sonicated full-length were loaded on gel in the equivalent amount as in the PCR mixture. pJUMP19_Cex was amplified as a positive control and both Cex-alphaS and Cex-sonicated were set in a PCR with three different concentrations of template: 1 ng, 30 ng, and 60 ng. The sample fragmented by sonication was successfully produced, however the sample fragmented by dATPαS always appeared as a smear for an unknown reason.</em></div>
 <br>
 
-## *Mutant library sequencing*
+## *Mutant Library Sequencing*
 
 <div style="text-align: justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The resulting product was successfully assembled via Golden Gate assembled and cloned into <em>E. coli</em> DH5a. Colonies with successful colony PCR results were plasmid extracted and sent for sequencing for the confirmation of mutations with the gene.</div>
