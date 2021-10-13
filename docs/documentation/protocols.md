@@ -1,22 +1,20 @@
 # Protocols
 
 
-<html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+    </head>
     <body>
-        <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-        <script>
-            mermaid.initialize({ startOnLoad: true });
-        </script>
-
-        Here is one mermaid diagram:
+        <div class="mermaid">
+            graph LR A --- B B-->C[fa:fa-ban forbidden] B-->D(fa:fa-spinner);
+        </div>
         <div class="mermaid">
             graph TD A[Client] --> B[Load Balancer] B --> C[Server1] B --> D[Server2]
         </div>
-
-        And here is another:
-        <div class="mermaid">
-            graph TD A[Client] -->|tcp_123| B(Load Balancer) B -->|tcp_456| C[Server1] B
-            -->|tcp_456| D[Server2]
-        </div>
+        <script src="The\Path\In\Your\Package\mermaid.js"></script>
+        <script>
+            mermaid.initialize({ startOnLoad: true });
+        </script>
     </body>
 </html>
