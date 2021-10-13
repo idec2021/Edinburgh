@@ -6,8 +6,8 @@ theme:
   favicon: img/idec-wiki-logo.png
 
   palette:
-    primary: dark gray
-    accent: green
+    primary: light blue
+    accent: blue
 
   features:
     - navigation.sections
