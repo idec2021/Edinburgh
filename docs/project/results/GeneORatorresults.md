@@ -39,7 +39,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three colonies from the B200 mutant library were grown overnight after positive colony PCR results. The liquid cultures were plasmid prepped and sent for sequencing and confirmed to have mutations consistent with the NNK codon. All three sequences had mutations at the Serine 204 residue, with one mutation reflecting a S204N mutation, and the two others S204G mutations (Figure 4). Herein lies a limitation of NNK codons, where despite the reduced number of possible codon variations in comparison to NNN, some amino acids are still biased in favour of others.</div>
 <br>
 
-<center><img width = "500" src ="https://user-images.githubusercontent.com/92064762/137063802-a62ab27d-3b18-4bd0-a0c5-679499548afc.png"></center>
+<center><img width = "550" src ="https://user-images.githubusercontent.com/92064762/137063802-a62ab27d-3b18-4bd0-a0c5-679499548afc.png"></center>
 
 <div style="text-align: justify">
 <em><strong>Figure 4 Sequencing Results of the S204 Codon.</strong> The original codon codes for serine. The three colonies sequenced all code for a mutation at this codon, one for asparagine, and two for glycine. Figure generated on Benchling.</em></div>
@@ -51,7 +51,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The mutant library was screened for the enhanced endo-1,4-B-xylanase activity through the appearing halos around mutant colonies (Figure 5). The colony harbors an intact Cex hydrolyse 1,4-B-glycosidic bond between azo dye and xylan creating a clearance zone around E.coli colony. The libraries were cloned twice into cloning and expression vectors. This cloning strategy was found as a bottleneck of the library generation where an empty backbone could accumulate from each assembly or the failed assembly could hinder gene expression, obstructing the screening that require expressed enzymes. For this reason, this study is only able to screen 3 libraries: B200, B230 and S280. Three controls were applied to investigate the screening method. Wild-type harboured in expression vector and a same-batch assembly were demonstrated as positive control while a backbone pJUMP29-1A with the original sfGFP reporter gene serving as a negative control.</div>
 <br>
 
-<center><img width = "650" src ="https://user-images.githubusercontent.com/92064762/137064053-d2ac1285-0603-4d3d-92fb-ee3aaee13ea3.png"></center>
+<center><img width = "600" src ="https://user-images.githubusercontent.com/92064762/137064053-d2ac1285-0603-4d3d-92fb-ee3aaee13ea3.png"></center>
 
 <div style="text-align: justify">
 <em><strong>Figure 5 Xylanase Screening of GeneORator Mutant Library.</strong> (A) (i-ii) positive controls of wildtype Cex, (iii) empty vector negative control. (B) (i) B200 mutant library, 65% of white colonies creating zones of clearing assumed to harbour functional Cex mutant (ii-iii) B230 mutant library, no functional Cex mutant is observed (C) (i-iii) S280 mutant library, 80% of white colonies creating zones of clearing assumed to harbour functional Cex mutant.</em></div>
