@@ -61,3 +61,5 @@
   [1] Lee M, Rozeboom HJ, Keuning E, de Waal P, Janssen DB. Structure-based directed evolution improves S. cerevisiae growth on xylose by influencing in vivo enzyme performance. Biotechnol Biofuels 2020 131 [Internet]. 2020 Jan 11 [cited 2021 Aug 12];13(1):1–18. Available from: https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-019-1643-0</div>
   <div style="text-align: justify">
   [2] Sadler JC, Green L, Swainston N, Kell DB, Currin A. Fast and Flexible Synthesis of Combinatorial Libraries for Directed Evolution. Methods Enzymol. 2018 Jan 1;608:59–79.</div></em>
+<br>
+[Back to top](#)
