@@ -59,5 +59,3 @@ nav:
       - Protocols: documentation/protocols.md
       - Lab notebook: documentation/notebook.md
   - Some useful features: useful_features.md
-
-npm install
