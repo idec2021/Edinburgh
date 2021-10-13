@@ -7,7 +7,7 @@ theme:
 
   palette:
     primary: light blue
-    accent: blue
+    accent: green
 
   features:
     - navigation.sections
