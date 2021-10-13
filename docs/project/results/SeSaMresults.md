@@ -59,6 +59,8 @@
 <div style="text-align: justify">
 <em><strong>Figure 5 Fragmentation of DNA by Number of Sonication Cycles.</strong> 2% agarose gel showing the fragmented DNA after sonication. (1) 100 bp Promega DNA ladder, (2-10) 0 - 8 cycles of sonication: pulse on 15 sec, pulse off 60 sec, 20% amplitude.</em></div>
 <br>
+
+## *SeSaM mutant library generation*
 <div style="text-align: justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The generation of a mutant library using the phosphorothioate dATP was tracked using gel electrophoresis (Figure 6). Using the aforementioned optimised protocol, both full-length forward 5&#39;-biotinylated DNA and the reverse 5&#39;-biotinylated DNA template were successfully achieved in a sufficient amount to proceed. Unfortunately, the final PCR step, in which the universal base is replaced with standard nucleotides, failed to produce the expected PCR product. The reaction was repeatedly modified by changing several conditions including the annealing temperature, quantity of full-length gene template, and additionally purifying DNA with ethanol precipitation. However, the PCR product was observed as a smear on the agarose gel, and not as a full-length gene product as expected. The method was assumed to have failed for this reason.</div>
 <br>
