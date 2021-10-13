@@ -10,7 +10,7 @@
 
     Here is a mermaid diagram:
     <div class="mermaid">
-        graph TD A[Client] --> B[Load Balancer] B --> C[Server01] B --> D[Server02]
+        graph TD A[Client] --> B[Load Balancer] B --> C[Server1] B --> D[Server2]
     </div>
-</body>
+  </body>
 </html>
