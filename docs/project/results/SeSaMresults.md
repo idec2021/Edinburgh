@@ -86,4 +86,4 @@
 <em><strong>Figure 9 Mutational Spectrum of the Optimised SeSaM Method with Novel Sonication Shearing.</strong> (A) Number and types of mutation found per clone sequenced. (B) Total types of mutations found from sequencing of mutants.</em></div>
 <br>
 
-[Back to top](#)
+[Back to top](#)<span style="color:black">
