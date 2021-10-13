@@ -1,5 +1,5 @@
 # SeSaM method optimisation
-<hr style="border:2px solid gray";background-color:gray> </hr>
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
 ## **Objective**
 <div style="text-align: justify">
@@ -86,4 +86,4 @@
 <em><strong>Figure 8 Mutational Spectrum of the Optimised SeSaM Method with Novel Sonication Shearing.</strong> (A) Number and types of mutation found per clone sequenced. (B) Total types of mutations found from sequencing of mutants.</em></div>
 <br>
 
-[Back to top](#3333)
+[Back to top](#333)
