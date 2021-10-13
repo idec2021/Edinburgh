@@ -34,7 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another potential cause for the significant DNA loss is the ssDNA purification, from which it was speculated that the QIAquick Nucleotide Removal kit was not suitable. Approximately 81.3% of DNA was lost after the purification. Ultimately, the Monarch® PCR &amp; DNA Cleanup Kit was utilised using the specified protocol for ssDNA purification. This kit seemed to significantly mitigate the DNA loss since only 42.0% of DNA was lost (Figure 3). Overall, the total amount of DNA retained represents a 5-fold increase between the SeSaM protocol and our optimised protocol.</div>
 <br>
 
-<center><img width = "600" src ="https://user-images.githubusercontent.com/92064762/137058527-e8c4bb1f-d67b-4de4-9fc6-55abd9d0b989.png"></center>
+<center><img width = "550" src ="https://user-images.githubusercontent.com/92064762/137058527-e8c4bb1f-d67b-4de4-9fc6-55abd9d0b989.png"></center>
 
 <div style="text-align: justify">
 <em><strong>Figure 3 DNA Quantity Tracking with Differing Clean-up Kits.</strong> The QIAquick Nucleotide Removal kit was found to have too low a yield for effective library generation. Instead the Monarch PCR &amp; DNA clean-up kit was used following the protocol for ssDNA purification, increasing the yield of DNA.</em></div>
@@ -54,7 +54,7 @@
 <div style="text-align: justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To achieve maximal mutational frequency, all phosphorothioate nucleotides of dCTPαS, dGTPαS and dTTPαS, as well as dATPαS would be required to be purchased to cleave the gene at every nucleotide position. Owing to the high cost of these modified bases, an alternative DNA shearing method was performed by sonication to explore more accessible alternatives to achieving greater mutational spectra. Various rounds of sonication were performed and are depicted in Figure 5. Increasing the rounds of sonication decreases the concentration of the full-length gene and increases the size of the smear. Much like the calibration experiment with dATPαS, a long smear with minimal full-length gene is desirable to increase the mutational spectrum of the method.</div>
 
-<center><img width = "500" src ="https://user-images.githubusercontent.com/92064762/137059319-8d8245b3-64d6-4ac0-8492-10e944397306.png"></center>
+<center><img width = "550" src ="https://user-images.githubusercontent.com/92064762/137059319-8d8245b3-64d6-4ac0-8492-10e944397306.png"></center>
 
 <div style="text-align: justify">
 <em><strong>Figure 5 Fragmentation of DNA by Number of Sonication Cycles.</strong> 2% agarose gel showing the fragmented DNA after sonication. (1) 100 bp Promega DNA ladder, (2-10) 0 - 8 cycles of sonication: pulse on 15 sec, pulse off 60 sec, 20% amplitude.</em></div>
@@ -72,7 +72,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As this study aimed to introduce a more cost-effective method, the library generation with the sonication shearing method was carried out. The optimised protocol was followed with the sonicated fragments and was successfully used to generate a full-length gene product (Figure 7).</div>
 <br>
 
-<center><img width = "650" src ="https://user-images.githubusercontent.com/92064762/137059810-4c8dc3c2-d444-42f1-875f-09763b0575fa.png"></center>
+<center><img width = "600" src ="https://user-images.githubusercontent.com/92064762/137059810-4c8dc3c2-d444-42f1-875f-09763b0575fa.png"></center>
 
 <div style="text-align: justify">
 <em><strong>Figure 7. Final PCR product obtained from the optimised SeSaM.</strong> The Cex-alphaS full-length and Cex-sonicated full-length were loaded on gel in the equivalent amount as in the PCR mixture. pJUMP19\_Cex was amplified as a positive control and both Cex-alphaS and Cex-sonicated were set in a PCR with three different concentrations of template: 1 ng, 30 ng, and 60 ng. The sample fragmented by sonication was successfully produced, however the sample fragmented by dATPαS always appeared as a smear for an unknown reason.</em></div>
@@ -80,7 +80,7 @@
 <div style="text-align: justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The resulting product was successfully assembled via Golden Gate assembled and cloned into _E. coli_ DH5a. Colonies with successful colony PCR results were plasmid prepped and sent for sequencing for the confirmation of mutations with the gene.</div>
 
-<center><img width = "650" src ="https://user-images.githubusercontent.com/92064762/137060078-e21e1a7d-f357-46c7-859c-7b1748b1db71.png"></center>
+<center><img width = "600" src ="https://user-images.githubusercontent.com/92064762/137060078-e21e1a7d-f357-46c7-859c-7b1748b1db71.png"></center>
 
 <div style="text-align: justify">
 <em><strong>Figure 9 Mutational Spectrum of the Optimised SeSaM Method with Novel Sonication Shearing.</strong> (A) Number and types of mutation found per clone sequenced. (B) Total types of mutations found from sequencing of mutants.</em></div>
