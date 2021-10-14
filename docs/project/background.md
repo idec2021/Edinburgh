@@ -16,7 +16,7 @@
 </div>
 <br>
 <div style="text-align: justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lignocellulosic biomass is one such waste stream of interest to this year&#39;s University of Edinburgh 2021 iDEC team. Being the most common polysaccharide on this planet, it is estimated that 1 billion tonnes of the common agricultural waste stream will be made available annually within the European Union. However, in its polymeric form it is of little value due to its complex crystalline structure which has evolved to specifically withstand enzymatic and microbial attack. The highly valuable glucose monomers are locked within the complex matrix and inaccessible to industrial processes that do not employ harsh, economically and environmentally unsustainable methods for their extraction. Therefore, the majority of the waste material is either burnt or composted in favour of a conventional linear economic model. In realising the circular bioeconomy of the future, sugar feedstocks will become an increasingly valuable agricultural product, and with our global food production system already under strain by our ever-growing population, other sources of sugar production will be required for our society to maintain the health of our planet. Bioethanol is a highly recognised bioproduct and its production from second generation feedstocks such as lignocellulosic biomass stands at the forefront of a circular bioeconomy. However, the pace of synthetic biology within industrial manufacturing capabilities promises a wide range of products which will require a vast amount of glucose to become available for the metabolic manufacturing revolution. The sourcing of sugar from overexploited, high land and water intensive primary feedstocks will not work to produce these products, as the sustainability of the end-product reflects its manufacturing process. The implementation of waste streams using novel manufacturing technologies is an important research area and the primary motivation for the team&#39;s objectives.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lignocellulosic biomass is one such waste stream of interest to this year&#39;s University of Edinburgh 2021 iDEC team. Being the most common polysaccharide on this planet, it is estimated that 1 billion tonnes of the common agricultural waste stream will be made available annually within the European Union[1]. However, in its polymeric form it is of little value due to its complex crystalline structure which has evolved to specifically withstand enzymatic and microbial attack [2]. The highly valuable glucose monomers are locked within the complex matrix and inaccessible to industrial processes that do not employ harsh, economically and environmentally unsustainable methods for their extraction [3]. Therefore, the majority of the waste material is either burnt or composted in favour of a conventional linear economic model. In realising the circular bioeconomy of the future, sugar feedstocks will become an increasingly valuable agricultural product, and with our global food production system already under strain by our ever-growing population, other sources of sugar production will be required for our society to maintain the health of our planet. Bioethanol is a highly recognised bioproduct and its production from second generation feedstocks such as lignocellulosic biomass stands at the forefront of a circular bioeconomy[4,5]. However, the pace of synthetic biology within industrial manufacturing capabilities promises a wide range of products which will require a vast amount of glucose to become available for the metabolic manufacturing revolution [6,7]. The sourcing of sugar from overexploited, high land and water intensive primary feedstocks will not work to produce these products, as the sustainability of the end-product reflects its manufacturing process. The implementation of waste streams using novel manufacturing technologies is an important research area and the primary motivation for the team&#39;s objectives.
 </div>
 
 ## **What is &#39;the SuperGrinder&#39;?**
@@ -27,4 +27,23 @@
 
 <center><img width = "800" src ="https://user-images.githubusercontent.com/92064762/136875460-358e658d-e586-4ec2-8956-9e3eb8597905.png"></center>
 <br>
+
+<div style="text-align: justify">
+<em>
+ References:
+  [1] S2Biom Project Grant Agreement n°608622 D8.2 Vision for 1 billion dry tonnes lignocellulosic biomass as a contribution to biobased economy   by 2030 in Europe Delivery of sustainable supply of non-food biomass   to support a “resource-efficient” Bioeconomy in Europe. 2016 [cited 2021 Aug 12]; Available from: [www.s2biom.eu](https://www.google.com/url?q=http://www.s2biom.eu&sa=D&source=docs&ust=1634092249627000&usg=AOvVaw3PQoytey5l30alaoaJa8_K).
+  [2] Abdel-Hamid AM, Solbiati JO, Cann IKO. Insights into Lignin  
+Degradation and its Potential Industrial Applications. Adv Appl  
+Microbiol. 2013 Jan 1;82:1–28.
+  [3] Baruah J, Nath BK, Sharma R, Kumar S, Deka RC, Baruah DC, et al.  Recent Trends in the Pretreatment of Lignocellulosic Biomass for  Value-Added Products. Front Energy Res. 2018 Dec 18;0(DEC):141.
+  [4] Abdel-Hamid AM, Solbiati JO, Cann IKO. Insights into Lignin Degradation and its Potential Industrial Applications. Adv Appl  
+Microbiol. 2013 Jan 1;82:1–28. 
+  [5] Baruah J, Nath BK, Sharma R, Kumar S, Deka RC, Baruah DC, et al.  Recent Trends in the Pretreatment of Lignocellulosic Biomass for  Value-Added Products. Front Energy Res. 2018 Dec 18;0(DEC):141.
+  [6] Delisi C. The role of synthetic biology in climate change mitigation. [cited 2021 Aug 12]; Available from: [https://doi.org/10.1186/s13062-](https://www.google.com/url?q=https://doi.org/10.1186/s13062-&sa=D&source=docs&ust=1634092249625000&usg=AOvVaw2f2GwyB0tBE7B5QMg9gsx9)  
+019-0247-8
+  [7] Voigt CA. Synthetic biology 2020–2030: six commercially-available  products that are changing our world. Nat Commun 2020 111  [Internet]. 2020 Dec 11 [cited 2021 Aug 12];11(1):1–6. Available from:  [https://www.nature.com/articles/s41467-020-20122-2](https://www.google.com/url?q=https://www.nature.com/articles/s41467-020-20122-2&sa=D&source=docs&ust=1634092249626000&usg=AOvVaw0amXCs4S35g6trdfITesv4)
+</em>
+</div>
+<br>
+  
 [Back to top](#)
