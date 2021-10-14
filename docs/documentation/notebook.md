@@ -65,12 +65,13 @@ Reagents for SeSam have arrived, but we still didn&#39;t get the parts from IDT,
 
 incubations were run at 70 C or room temperature (RT) for 1 hour by adding Iodine to final concentrations of 2mM and 2uM iodine.
 
-![](RackMultipart20211014-4-my4ruj_html_9bde1fa939d164e4.png)
+<img width = "600" src="https://user-images.githubusercontent.com/92064762/137409005-22556bda-7cd3-4fa6-b37f-13880a37f602.png">
 
 POX5 results. In yellow the concentration of the dATPaS used, in white the Iodine concentrations.
 
 RESULTS NOTES: the 2uM iodine concentration failed to produce a smear at both 70 degres and room temperature and in both genes. At the same time, the iodo fragmentation run at 70 degrees showed to be the best performing in both genes and at all concentrations of dATPaS
-
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 30/6/21
 
 Received the parts from IDT. Hence, we test sesam on a recombinant keratinase rMtaKer from Meiothermus taiwanensis (~900bp)
@@ -93,6 +94,9 @@ possible causes:
 
 - DNA concentration from PCR could be low
 - some step in the dynabeads purification process following Wong et al 2004 protocol might be faulty and we might be loosing DNA at some point.
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+## July 2021
 
 6/07/21
 
@@ -130,7 +134,8 @@ then we pset a new experiment with 4 different tubes for PCR:
 4. PCR with normal Primers
 
 The third would be the control for full length genes, to gain knowledge about how much the fragmentation impacts the QIAquick and dynabeads extraction, while the forth was a negative control to see if the purification would impact the results. 100 ul each
-
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 9/7/21
 
 - primer purification performed.
@@ -152,12 +157,14 @@ Foerward: 27 ng/ul \*30ul = 810 ng
 reverse: 36 ng/ul \* 30ul = 1080 ng
 
 18 and 25% recovery rate respectively.
-
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 12/07/21
 
 - 200 ul beads used for PCR number 2 and incubated with 20.5 ul of purified BFP (80 pmol tot) at Room temperature for 1.30 hours
 - The four PCR reactions were then set up over night with the previous reported protocol, except for an increase number of cycles of for a total of 45. The PCR reaction made with the forward-primer-coated-beads, was not added of the forward primers and their volume in water was added to compensate the lack.
-
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 14/7/21
 
 The three reactions with the forward biotinylated primers were incubated with Iodine (as previously indicated) and then purified with dynabeads (PCr with coated dynabeads skipped the incubation step)
@@ -179,7 +186,8 @@ The incubation and the NaOH discarded liquids were collected and nanodropped (da
 | average: | 26.6666667 | 5.383333333 | 7.893333333 | 6.306666667 | 13.14333333 ||||||| Volume(ul): | 400 | 200 | 200 | 30 | 30 || QIAgen yields | total yeild | loss in dynabeads: | total initial DNA |
 | tot: | 106666.6667 | 1076.666667 | 1578.666667 | 189.2 | 394.3 || 11.98% | 0.17% | 98.56% | 109322 |
 | Old forwards | 11.4 | 7.07 | 13.8 | 11.3 | 17.27 |||||||| 116.6 | 10.42 | 13.65 | 10.16 | 17.85 |||||||| 120.1 | 9.8 | 13.44 | 10.51 | 17.82 ||||||||||||||||||| average: | 117.3666667 | 9.096666667 | 13.63 | 10.65666667 | 17.64666667 ||||||| Volume(ul): | 400 | 200 | 200 | 30 | 30 || QIAgen yields | total yeild | loss in dynabeads: | total initial DNA || tot: | 46946.66667 | 1819.333333 | 2726 | 319.7 | 529.4 || 11.73% | 0.62% | 94.71% | 51492 |
-
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 15/07/21
 
 - Terminal transferase step was performed as follow:
@@ -216,21 +224,20 @@ with program:
 | 68 | 10` |
 
 core steps for 45 cycles
-
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 16/07/21
 
 - 60 ng of the pcr product (purified) from the previous step (previous day) were used for the final PCR.
 
 Finally, an agarose gel was prepared and run but the results clearly showed something went wrong. THe lack of controls in between the steps after the Dynabeads extraction didn&#39;t make it possible to find the source of the Issues.
 
-![](RackMultipart20211014-4-my4ruj_html_1404b5fe449d4458.png)
-
+<img width = "400" src="https://user-images.githubusercontent.com/92064762/137409319-218105dd-1df5-4f02-87c6-344ca3972d8b.png">
 15ul of the last PCR result were run on a 2% agarose gel, water as negative control (which did not work) and gBlock part as positive control.
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 
-
-## July 2021
-
-### 26/07/2021
+26/07/2021
 
 1. Resuspended primers to create 100 uM stock solution of mutagenic primers. Created another stock of 1 uM primers for asymmetric PCR.
 
