@@ -2,6 +2,9 @@
 <hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
 
 ## SeSaM Protocols
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
+
+
 
 <br>
 <h2><div id="B"><b>dATPαS Calibration for Cex and Iodine Fragmentation</div></b></h2>
@@ -28,13 +31,14 @@
 | Annealing | 58°C | 1 min ||
 | Extension | 72°C | 1 min 40 sec (1 min/kb) ||
 | Final extension | 72°C | 10 min | 1 |
-| Hold | 4C | ∞ ||
+| Hold | 4°C | ∞ ||
 
-3. After PCR, add 2 uL of 50 mM Iodine prepared in 100% ethanol to a 50-uL PCR
-4. Incubate the reaction at 70°C for 1 hour
-5. Run samples on agarose gel to analyse the fragmentation
+3.  After PCR, add 2 uL of 50 mM Iodine prepared in 100% ethanol to a 50-uL PCR
+5. Incubate the reaction at 70°C for 1 hour
+6. Run samples on agarose gel to analyse the fragmentation
 <br>
-<h2><div  id="CDE">Biotinylated DNA Generation</div></h2>
+
+<h2><div  id="CDE"><b>Biotinylated DNA Generation</b></div></h2>
 
 1. Set up a PCR reaction with the component listed in the table below
 
@@ -64,7 +68,7 @@
 | Hold | 4°C | ∞ ||
 
 <br>
-<h2><div  id="F">Iodofragmentation</div></h2>
+<h2><div  id="F"><b>Iodofragmentation</b></div></h2>
 
 1. Prepare 50 mM Iodine in 100% ethanol
 2. Fragment the biotinylated forward strand by adding 2 uL iodione to 50-uL reaction
@@ -72,7 +76,7 @@
 4. Purify the fragmented PCR product with QIAGEN PCR clean-up kit
 
 <br>
-<h2><div  id="G">DNA shearing and recovery</div></h2>
+<h2><div  id="G"><b>DNA shearing and recovery</b></div></h2>
 
 1. Purify the biotinylated forward strand using QIAGEN PCR clean-up kit
 2. Verify quality of the DNA with A260/A280 ratio– should be between 1.8 – 2.0
@@ -87,7 +91,7 @@
 11. Resuspend the pellet with nuclease-free water.
 
 <br>
-<h2><div  id="H">Biotinylated DNA Isolation- Dynabeads</div></h2>
+<h2><div  id="H"><b>Biotinylated DNA Isolation- Dynabeads</b></div></h2>
 
 1. Wash 50 uL of the Dynabeads™ MyOne™ Streptavidin C1 (Invitrogen) with 1 mL 2X Binding and Washing (B&amp;W) buffer (10 mM Tris-HCl pH 7.5, 1.0 mM EDTA, 2.0 M NaCl)
 2. Place the tube on a magnetic rack for 2-3 minutes, then remove the solution
@@ -108,7 +112,7 @@
 17. Store ssDNA at -20°C until required
 
 <br>
-<h2><div  id="I">Universal base addition – Terminal Transferase</div></h2>
+<h2><div  id="I"><b>Universal base addition – Terminal Transferase</b></div></h2>
 
 1. Prepare the reaction following:
 
@@ -126,7 +130,7 @@
 4. Store ssDNA at -20°C until required
 
 <br>
-<h2><div  id="J">Full-length gene synthesis</div></h2>
+<h2><div  id="J"><b>Full-length gene synthesis</b></div></h2>
 
 1. PCR using Taq polymerase following:
 
@@ -156,7 +160,7 @@
 4. Store DNA at -20°C until required
 
 <br>
-<h2><div  id="K">Universal base replacement</div></h2>
+<h2><div  id="K"><b>Universal base replacement</b></div></h2>
 
 1. PCR using Taq polymerase following:
 
@@ -186,4 +190,6 @@
 4. Store DNA at 20°C until required
 
 ## GeneORator Protocol
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 ## General Protocols
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
