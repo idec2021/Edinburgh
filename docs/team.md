@@ -49,6 +49,8 @@ Chris is a professor of microbial biotechnology in the School of Biological Scie
 </div>
 
 **Nadanai Laohakunakorn**
+
+<img width = "600" src="https://user-images.githubusercontent.com/92064762/137404142-627b4917-63a0-4fb1-859b-fa776b7c1a6b.JPG">
 <div style="text-align: justify">
 Nadanai is a Chancellor&#39;s Fellow in Biotechnology at IQB3 at the University of Edinburgh. His research focuses on the development and programming of cell-free systems for biological protein synthesis. This allows for the rapid, inexpensive and sustainable production of products for healthcare, environmental monitoring and biomanufacturing of chemicals and materials.
 </div>
