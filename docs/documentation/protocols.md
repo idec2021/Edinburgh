@@ -189,11 +189,80 @@
 3. Run PCR product on 2% agarose gel and perform gel purification
 4. Store DNA at 20°C until required
 
-## GeneORator Protocol
+<br>
+
+## **GeneORator protocol**
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
+### **Reverse Megaprimers generation**
 
+1. Perform asymmetric PCR:
 
+|| Final concentration |
+| --- | :---: |
+| Q5 reaction buffer | 1X |
+| dNTP mix | 0.2 mM |
+| Mutagenic forward primers | 25 nM |
+| Reverse primer | 0.5 uM |
+| pJUMP19\_Cex | 200 ng |
+| Q5 high fidelity DNA polymerase | 1 unit |
+| DIW | Total 50 uL |
 
+2. Set the thermal cycler at:
+
+|| Temperature | Time | Cycle |
+| --- | :---: | :---: | :---: |
+| Initial denaturation | 98°C | 2 min | 1 |
+| Denaturation | 98°C | 30 sec | 25 |
+| Annealing | 60°C | 20 sec ||
+| Extension | 72°C | 40 sec ||
+| Hold | 4°C | ∞ ||
+
+3. Purify PCR product with QIAGEN PCR clean-up kit
+
+<br>
+
+### **Megaprimer PCR**
+
+1. Generate the full-length gene using the reverse megaprimers
+
+|| Final concentration |
+| --- | :---: |
+| Q5 reaction buffer | 1X |
+| dNTP mix | 0.2 mM |
+| Forward primer | 0.5 uM |
+| Mutagenic reverse megaprimer | 0.05 uM |
+| pJUMP19_Cex | 0.5 ng |
+| Q5 high fidelity DNA polymerase | 1 unit |
+| DIW | Total 50 uL |
+
+2. Set the thermal cycler at:
+
+|| Temperature | Time | Cycle |
+| --- | :---: | :---: | :---: |
+| Initial denaturation | 98°C | 2 min | 1 |
+| Denaturation | 98°C | 30 sec | 25 |
+| Annealing | 60°C | 20 sec ||
+| Extension | 72°C | 40 sec ||
+| Hold | 4°C | ∞ ||
+<br>
+
+### **Full-length mutant library purification**
+
+1. Exclude methylated DNA by DpnI digestion:
+
+|| Final content in the reaction |
+| --- | :---: |
+| PCR product | 50 uL |
+| DpnI | 20 U/uL |
+| 2.1 Buffer | 1X |
+| DIW | Total volume 100 uL |
+
+2. Incubate the reaction at 37°C for 2 hours
+3. Inactivate DpnI by incubating at 80°C for 10 minutes
+4. Run the digestion reaction on 1% agarose gel
+5. Perform gel extraction using the commercial kit
+
+<br>
 
 ## General Protocols
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
