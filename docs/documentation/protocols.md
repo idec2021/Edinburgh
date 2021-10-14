@@ -11,7 +11,7 @@
 
 1. Set up a PCR with the component listed in the table below
 
- || Final concentration | uL in 1 reaction |
+|| Final concentration | uL in 1 reaction |
 | --- | :---: | :---: |
 | 5x GoTaq buffer | 1X | 10 |
 | 10 mM dNTP mix | 0.2 mM | 1 |
@@ -42,7 +42,7 @@
 
 1. Set up a PCR reaction with the component listed in the table below
 
- || Final concentration | uL in 1 reaction |
+|| Final concentration | uL in 1 reaction |
 | --- | :---: | :---: |
 | 5x GoTaq buffer | 1X | 10 |
 | 10 mM dNTP mix | 0.2 mM | 1 |
@@ -264,5 +264,130 @@
 
 <br>
 
-## General Protocols
+## **General protocols**
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
+### **Chemically competent cells**
+
+1. Inoculate a single colony of appropriate cells into 10ml LB media and culture overnight at 37°C, 200rpm
+2. Inoculate 1% of the overnight culture into a fresh LB media (100 mL)
+3. Incubate at 37 °C, 200rpm until OD600 = 0.3-0.6 (approx. 2 hours)
+4. Transfer to 2 x 50 mLtubes and leave on ice for 30 minutes
+5. Centrifuge at 4000 x g for 5 minutes at 4 °C
+6. Gently resuspend pellet in 25 mL ice cold 0.1 M MgCl2 and keep on ice for 30 minutes
+7. Centrifuge at 4000 xg, 5 min for 5 minutes at 4 °C
+8. Gently resuspend pellet in 25 mL ice-cold 0.1 M CaCl2 and incubate on ice for 30 minutes
+9. Centrifuge at 4000 xg, 5 min for 5 minutes at 4 °C
+10. Gently resuspend pellet in 1.25 mL ice cold CaCl2 with 15% Glycerol solution
+11. Aliquot 100 uL and flash freeze with liquid nitrogen.  Store at – 80 °C until required
+<br>
+
+### **Colony PCR**
+
+1. Prepare 50 uL of sterile water in a PCR tubes
+2. Pick a single colony and resuspend in 50 uL water, then draw 5 uL out into a new tube
+3. Freeze 5 uL cell suspension at -20°C for at least 10 minutes
+4. Prepare the master mix following the table below
+
+|| Final concentration | uL in 1 reaction |
+| --- | :---: | :---: |
+| 5x GoTaq buffer | 1X | 4 |
+| 10 mM dNTP mix | 0.2 mM | 0.5 |
+| 10 uM PS1 (forward primer) | 0.1 – 1 uM | 2 |
+| 10 uM PS2 (reverse primer) | 0.1 – 1 uM | 2 |
+| Cell suspension | 5 uL | 5 |
+| GoTaq polymerase | 1.25 unit | 0.1 |
+| DIW | Total 20 uL | 6.5 |
+
+5. Mix the master mix with 5 uL cell suspension (DNA template) and PCR according to the condition in the table below
+
+|| Temperature | Time | Cycle |
+| --- | :---: | :---: | :---: |
+| Initial denaturation | 95°C | 2 min | 1 |
+| Denaturation | 95°C | 1 min | 25 |
+| Annealing | 58°C | 1 min ||
+| Extension | 72°C | 1 min 30 sec (1 min/kb) ||
+| Final extension | 72°C | 5 min | 1 |
+| Hold | 4°C | ∞ ||
+
+6. Run the PCR product on 1% agarose gel with 100 V for 30 minutes and visualise the result under UV exposition
+<br>
+
+### **Heat shock transformation**
+
+1. Defrost chemically competent cells on ice.
+2. Add 2ul of plasmid DNA or 10 uL of assembly reaction to 100 uL competent cells
+3. Flick the tube to mix and incubate on ice for 30minutes
+4. Heat shock at 42Cfor 30 seconds
+5. Incubate on ice for 2 minutes
+6. Add 1 mL SOC media and recover cellsat 37C, 200 rpm for 1hour
+7. Spread100 uL on an appropriate antibiotic LB/agar plate
+8. Spin the rest of the cells at 4000 rpm, remove 900 uL of the media, reusupend and spread onto another LB/agar plate
+9. Incubate plates at 37C overnight
+<br>
+
+### **JUMP assembly [ref] : Golden Gate assembly platform**
+
+1. Determine the concentration of the assembly parts with Nanodrop
+2. Use DNA calculator (from Promega) to calculate fmol of each part
+3. Prepare the assembly parts in the concentration of 20 fmol/uL
+4. Set up 20 uL JUMP assembly reaction using 1 uL of all parts (or 20 fmol)
+5. Add 2 uL of 10X T4 ligase reaction buffer, 1 uL of either BsmBI (for Level0 assembly) or BsaI-HF (for Level 1 assembly), and 0.25 uL of T4 ligase
+6. Add sterile water to adjust the volume up to 20 uL
+7. Incubate the reaction following the tables below
+
+Level 0 assembly: BsmBI
+
+| Temperature | Time | Cycle |
+| :---: | :---: | :---: |
+| 42°C | 15 min | 1 |
+| 42°C | 3 min | 30 |
+| 16°C | 3 min | |
+| 55C | 15 min | 1 |
+| 80C | 5 min | 1 |
+| 10C | ∞ ||
+
+Level 1 assembly: BsaI-HF
+
+| Temperature | Time | Cycle |
+| :---: | :---: | :---: |
+| 37°C | 15 min | 1 |
+| 37°C | 5 min | 60 |
+| 16°C | 5 min | |
+| 37°C | 60 min | 1 |
+| 80°C | 5 min | 1 |
+| 10°C | ∞ | |
+
+8. Transform the reaction directly to the competent cells
+<br>
+
+### **High-throughput screening of Cex**
+
+1. Spread mutants on LB/agar plate with 50 ug/mL Kanamycin and 0.01mM IPTG
+2. Incubate at 37C for 48 hours
+3. Prepare the screening solution by mixing 7.5 g agarose with 50 mL 1M Sodium phosphate buffer pH 6.5 and 400 mL distilled water
+4. Autoclave the screening solution
+5. Let the screening solution cooled down by incubating in the water bath at 48C
+6. Add 50 mL of azo-xylan to the screening solution
+7. Pour the screening solution on top of the mutant agar plate
+8. Let the agarose set and incubate at 37°C for 6 hours, the visible halos indicating the working Cex enzyme
+<br>
+
+### **Assembly enhancement**
+
+1. Incubate level 1 mutant library with BmtI endonuclease to cleave sfGFP but not Cex
+
+|| Final content in the reaction |
+| --- | :---: |
+| Level 1 mutant library | 200 ng |
+| BmtI | 2 U |
+| rCutsmart buffer | 1X |
+| DIW | Total volume 10 uL |
+
+1. Incubate the reaction at 37°C for 1 hour
+2. Heat inactivate enzyme at 65°C for 20 minutes
+3. Directly transform 10-uL reaction to 100 uL _E.coli BL21_ (DE3) competent cells
+4. Plate on LB/Agar/Kan/IPTG plate for screening
+
+<br>
+[Back to top](#)
+
