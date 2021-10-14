@@ -1,54 +1,9 @@
 # SeSaM protocol
 <hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
-<html>
-
-<script src="https://cdn.rawgit.com/knsv/mermaid/6.0.0/dist/mermaid.min.js"></script>
-<link href="https://cdn.rawgit.com/knsv/mermaid/6.0.0/dist/mermaid.css" rel="stylesheet" />
-
-<div class='mermaid'>
-  graph TD; 
-  A[Cex DNA Template] -->|FB Generation| B(dATPaS Calibration);
-  A -->|Modified FB Generation| C(Biotinylated DNA Generation);
-  B --> E(Biotinylated DNA Generation);
-  E --> F(Iodofragmentation);
-  C --> G(DNA Shearing and Recovery);
-  A -->|RB Generation| D(Biotinylated DNA Generation);
-  F --> H(Biotinylated DNA Isolation);
-  G --> H;
-  D --> H;
-  H --> |Forward strand DNA| I(Universal Base Addition);
-  H --> |Reverse strand DNA| J(Full-length Gene Synthesis);
-  I --> J;
-  J --> K(Universal Base Replacement);
-
-  click B "#B";
-  click C "#CDE";
-  click D "#CDE";
-  click E "#CDE";
-  click F "#F";
-  click G "#G";
-  click H "#H";
-  click I "#I";
-  click J "#J";
-  click K "#K";
-
-  style A fill: #FFEBCD
-  style B fill: #FFC0CB
-  style C fill: #C6E8F5
-  style D fill: #C6E8F5
-  style E fill: #C6E8F5
-  style F fill: #FCD8A4
-  style G fill: #E0C6EF
-  style H fill: #C1FD9F
-  style I fill: #FFD5B9
-  style J fill: #FFB9DF
-  style K fill: #F5F5F5
-</div>
-
-</html>
 
 
-<h2><div  id="B">dATPαS Calibration for Cex and Iodine Fragmentation</div></h2>
+<br>
+<h2><div id="B"><b>dATPαS Calibration for Cex and Iodine Fragmentation</div></b></h2>
 
 1. Set up a PCR with the component listed in the table below
 
@@ -65,23 +20,19 @@
 
 2. Set the thermal cycler following:
 
-
 | | Temperature | Time | Cycle |
 | --- | --- | --- | --- |
 | Initial denaturation | 95°C | 2 min | 1 |
 | Denaturation | 95°C | 1 min | 30 |
-| Annealing | 58°C | 1 min |
- |
-| Extension | 72°C | 1 min 40 sec (1 min/kb) |
- |
+| Annealing | 58°C | 1 min ||
+| Extension | 72°C | 1 min 40 sec (1 min/kb) ||
 | Final extension | 72°C | 10 min | 1 |
-| Hold | 4C | ∞ |
- |
+| Hold | 4C | ∞ ||
 
 3. After PCR, add 2 uL of 50 mM Iodine prepared in 100% ethanol to a 50-uL PCR
 4. Incubate the reaction at 70°C for 1 hour
 3. Run samples on agarose gel to analyse the fragmentation
-
+<br>
 <h2><div  id="CDE">Biotinylated DNA Generation</div></h2>
 
 1. Set up a PCR reaction with the component listed in the table below
@@ -93,18 +44,15 @@
 | 1 mM dATPaS\* | 0.1 mM | 5 |
 | 10 uM Forward primer\*\* | 12.6 pmol | 1.26 |
 | 10 uM Reverse primer\*\* | 12.6 pmol | 1.26 |
-| pJUMP19\_Cex | 250 ng |
- |
+| pJUMP19\_Cex | 250 ng ||
 | GoTaq polymerase | 2.5 unit | 0.5 |
-| DIW | Total 50 uL |
- |
+| DIW | Total 50 uL ||
 
 \*Only add dATPaS when generating the biotinylated forward strand to be used regarding the original SeSaM protocol
 
 \*\*Use 5&#39;-biotinylated forward primer with non-biotinylated reverse primer for the biotinylated forward strand and use 5&#39;-biotinylated reverse primer with non-biotinylated forward primer for the biotinylated reverse strand.
 
 2. Set the thermal cycler according to the condition suggested below
-
 
 | | Temperature | Time | Cycle |
 | --- | :---: | :---: | :---: |
@@ -115,6 +63,7 @@
 | Final extension | 72°C | 10 min | 1 |
 | Hold | 4°C | ∞ ||
 
+<br>
 <h2><div  id="F">Iodofragmentation</div></h2>
 
 1. Prepare 50 mM Iodine in 100% ethanol
@@ -122,6 +71,7 @@
 3. Incubate at 70°C for 1 hour
 4. Purify the fragmented PCR product with QIAGEN PCR clean-up kit
 
+<br>
 <h2><div  id="G">DNA shearing and recovery</div></h2>
 
 1. Purify the biotinylated forward strand using QIAGEN PCR clean-up kit
@@ -136,6 +86,7 @@
 10. Remove ethanol as much as possible and air-dry DNA pellet at 37°C for 20 minutes, or until completely dry
 11. Resuspend the pellet with nuclease-free water.
 
+<br>
 <h2><div  id="H">Biotinylated DNA Isolation- Dynabeads</div></h2>
 
 1. Wash 50 uL of the Dynabeads™ MyOne™ Streptavidin C1 (Invitrogen) with 1 mL 2X Binding and Washing (B&amp;W) buffer (10 mM Tris-HCl pH 7.5, 1.0 mM EDTA, 2.0 M NaCl)
@@ -156,6 +107,7 @@
 16. Remove SDS from DNA by Monarch®PCR &amp; DNA Cleanup Kit (NEB) following the oligonucleotide clean up protocol
 17. Store ssDNA at -20°C until required
 
+<br>
 <h2><div  id="I">Universal base addition – Terminal Transferase</div></h2>
 
 1. Prepare the reaction following:
@@ -173,6 +125,7 @@
 3. Purify the ssDNA with Monarch®PCR &amp; DNA Cleanup Kit (NEB) following the oligonucleotide clean up protocol
 4. Store ssDNA at -20°C until required
 
+<br>
 <h2><div  id="J">Full-length gene synthesis</div></h2>
 
 1. PCR using Taq polymerase following:
@@ -181,15 +134,12 @@
 | --- | :---: | :---: |
 | 10x ThermoPol buffer | 1X | 5 |
 | 10 mM dNTP mix | 0.2 mM | 1 |
-| Forward strand ssDNA | 500 ng |
- |
-| Reverse strand ssDNA | 60 ng |
- |
+| Forward strand ssDNA | 500 ng ||
+| Reverse strand ssDNA | 60 ng ||
 | 10 uM Non-biotinylated reverse primer | 20 pmol | 2 |
 | 100% DMSO | 5% | 2.5 |
 | 5 U/uL Taq polymerase | 2.5 unit | 0.5 |
-| DIW | Total 50 uL |
- |
+| DIW | Total 50 uL ||
 
 2. Synthesis full gene following the SeSaM protocol
 
@@ -197,17 +147,15 @@
 | --- | :---: | :---: | :---: |
 | Initial denaturation | 94°C | 3 min | 1 |
 | Denaturation | 94°C | 1 min | 30 |
-| Annealing | 52.7°C | 1 min |
- |
-| Extension | 72°C | 1 min 15 sec |
- |
+| Annealing | 52.7°C | 1 min ||
+| Extension | 72°C | 1 min 15 sec ||
 | Final extension | 72°C | 10 min | 1 |
-| Hold | 4°C | ∞ |
- |
+| Hold | 4°C | ∞ ||
 
 3. Purify the ssDNA with Monarch®PCR &amp; DNA Cleanup Kit (NEB)
 4. Store DNA at -20°C until required
 
+<br>
 <h2><div  id="K">Universal base replacement</div></h2>
 
 1. PCR using Taq polymerase following:
@@ -218,12 +166,10 @@
 | 10 mM dNTP mix | 0.2 mM | 1 |
 | 10 uM Forward primer | 20 pmol | 2 |
 | 10 uM Reverse primer | 20 pmol | 2 |
-| Full-length DNA | 1 - 60 ng |
- |
+| Full-length DNA | 1 - 60 ng ||
 | 100% DMSO | 5% | 2.5 |
 | 5 U/uL Taq polymerase | 2.5 unit | 0.5 |
-| DIW | Total 50 uL |
- |
+| DIW | Total 50 uL ||
 
 2. Set the thermal cycler according to the condition suggested below
 
@@ -231,13 +177,11 @@
 | --- | :---: | :---: | :---: |
 | Initial denaturation | 94°C | 3 min | 1 |
 | Denaturation | 94°C | 1 min | 30 |
-| Annealing | 52.7°C | 1 min |
- |
-| Extension | 72°C | 1 min 15 sec |
- |
+| Annealing | 52.7°C | 1 min ||
+| Extension | 72°C | 1 min 15 sec ||
 | Final extension | 72°C | 10 min | 1 |
-| Hold | 4°C | ∞ |
- |
+| Hold | 4°C | ∞ ||
 
-2. Run PCR product on 2% agarose gel and perform gel purification
-3. Store DNA at 20°C until required
+3. Run PCR product on 2% agarose gel and perform gel purification
+4. Store DNA at 20°C until required
+
