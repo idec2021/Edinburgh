@@ -1,5 +1,6 @@
 # Protocols
 <hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
+
 ## SeSaM Protocols
 
 <br>
@@ -184,5 +185,5 @@
 3. Run PCR product on 2% agarose gel and perform gel purification
 4. Store DNA at 20°C until required
 
-# GeneORator Protocol
-# General Protocols
+## GeneORator Protocol
+## General Protocols
