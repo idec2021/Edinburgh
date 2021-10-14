@@ -4,6 +4,52 @@
 ## **SeSaM Protocols**
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
+<html>
+
+<script src="https://cdn.rawgit.com/knsv/mermaid/6.0.0/dist/mermaid.min.js"></script>
+<link href="https://cdn.rawgit.com/knsv/mermaid/6.0.0/dist/mermaid.css" rel="stylesheet" />
+
+<div class='mermaid'>
+  graph TD; 
+  A[<b>Cex DNA Template</b>] -->|FB Generation| B(dATPaS Calibration);
+  A -->|Modified FB Generation| C(Biotinylated DNA Generation);
+  B --> E(Biotinylated DNA Generation);
+  E --> F(Iodofragmentation);
+  C --> G(DNA Shearing and Recovery);
+  A -->|RB Generation| D(Biotinylated DNA Generation);
+  F --> H(Biotinylated DNA Isolation);
+  G --> H;
+  D --> H;
+  H --> |Forward strand DNA| I(Universal Base Addition);
+  H --> |Reverse strand DNA| J(Full-length Gene Synthesis);
+  I --> J;
+  J --> K(<b>Universal Base Replacement</b>);
+
+  click B "#B";
+  click C "#CDE";
+  click D "#CDE";
+  click E "#CDE";
+  click F "#F";
+  click G "#G";
+  click H "#H";
+  click I "#I";
+  click J "#J";
+  click K "#K";
+
+  style A fill: #FFEBCD
+  style B fill: #FFC0CB
+  style C fill: #C6E8F5
+  style D fill: #C6E8F5
+  style E fill: #C6E8F5
+  style F fill: #FCD8A4
+  style G fill: #E0C6EF
+  style H fill: #C1FD9F
+  style I fill: #FFD5B9
+  style J fill: #FFB9DF
+  style K fill: #F5F5F5
+</div>
+
+</html>
 
 
 <br>
