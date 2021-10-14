@@ -53,7 +53,7 @@
 
 
 <br>
-<h2><div id="B"><b>dATPαS Calibration for Cex and Iodine Fragmentation</div></b></h2>
+### dATPαS Calibration for Cex and Iodine Fragmentation ### {#B}
 
 1. Set up a PCR with the component listed in the table below
 
