@@ -14,7 +14,7 @@
 <div class='mermaid'>
   graph TD; 
   A[<b>Cex DNA Template</b>] -->|FB Generation| B(dATPaS Calibration);
-  A -->|Modified FB Generation| C(Biotinylated DNA Generation);
+  A --> |Modified FB Generation| C(Biotinylated DNA Generation);
   B --> E(Biotinylated DNA Generation);
   E --> F(Iodofragmentation);
   C --> G(DNA Shearing and Recovery);
@@ -25,7 +25,7 @@
   H --> |Forward strand DNA| I(Universal Base Addition);
   H --> |Reverse strand DNA| J(Full-length Gene Synthesis);
   I --> J;
-  J --> K(<b>Universal Base Replacement</b>);
+  J --> K[<b>Universal Base Replacement</b>];
 
   click B "#B" "View Protocol";
   click C "#CDE" "View Protocol";
@@ -37,21 +37,23 @@
   click I "#I" "View Protocol";
   click J "#J" "View Protocol";
   click K "#K" "View Protocol";
+  
 
-  style A fill: #FFEBCD
-  style B fill: #FFC0CB
-  style C fill: #C6E8F5
-  style D fill: #C6E8F5
-  style E fill: #C6E8F5
-  style F fill: #FCD8A4
-  style G fill: #E0C6EF
-  style H fill: #C1FD9F
-  style I fill: #FFD5B9
-  style J fill: #FFB9DF
-  style K fill: #F5F5F5
+  style A fill: #F4D291, stroke:#35455D
+  style B fill: #FAEBBD, stroke:#35455D
+  style C fill: #F0B1A0, stroke:#35455D
+  style D fill: #F0B1A0, stroke:#35455D
+  style E fill: #F0B1A0, stroke:#35455D
+  style F fill: #CAF1DE, stroke:#35455D
+  style G fill: #E0D1EF, stroke:#35455D
+  style H fill: #B5E2EA, stroke:#35455D
+  style I fill: #FFD5B9, stroke:#35455D
+  style J fill: #F5C3D1, stroke:#35455D
+  style K fill: #F0E1B1, stroke:#35455D
 </div>
 
 </html>
+
 
 
 <br>
