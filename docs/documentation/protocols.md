@@ -1,7 +1,7 @@
-# Protocols
+# **Protocols**
 <hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
 
-## SeSaM Protocols
+## **SeSaM Protocols**
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
 
@@ -191,5 +191,9 @@
 
 ## GeneORator Protocol
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
+
+
+
+
 ## General Protocols
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
