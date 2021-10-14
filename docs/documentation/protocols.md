@@ -4,6 +4,8 @@
 ## **SeSaM Protocols**
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
+*Click on the flow chart to view the protocol*
+
 <html>
 
 <script src="https://cdn.rawgit.com/knsv/mermaid/6.0.0/dist/mermaid.min.js"></script>
@@ -25,16 +27,16 @@
   I --> J;
   J --> K(<b>Universal Base Replacement</b>);
 
-  click B "#B" "Protocol";
-  click C "#CDE" "Protocol";
-  click D "#CDE" "Protocol";
-  click E "#CDE" "Protocol";
-  click F "#F" "Protocol";
-  click G "#G" "Protocol";
-  click H "#H" "Protocol";
-  click I "#I" "Protocol";
-  click J "#J" "Protocol";
-  click K "#K" "Protocol";
+  click B "#B" "View Protocol";
+  click C "#CDE" "View Protocol";
+  click D "#CDE" "View Protocol";
+  click E "#CDE" "View Protocol";
+  click F "#F" "View Protocol";
+  click G "#G" "View Protocol";
+  click H "#H" "View Protocol";
+  click I "#I" "View Protocol";
+  click J "#J" "View Protocol";
+  click K "#K" "View Protocol";
 
   style A fill: #FFEBCD
   style B fill: #FFC0CB
@@ -53,7 +55,7 @@
 
 
 <br>
-### dATPαS Calibration for Cex and Iodine Fragmentation ### {#B}
+### **dATPαS Calibration for Cex and Iodine Fragmentation** ### {#B}
 
 1. Set up a PCR with the component listed in the table below
 
@@ -84,7 +86,7 @@
 6. Run samples on agarose gel to analyse the fragmentation
 <br>
 
-<h2><div  id="CDE"><b>Biotinylated DNA Generation</b></div></h2>
+### **Biotinylated DNA Generation** ### {#CDE}
 
 1. Set up a PCR reaction with the component listed in the table below
 
@@ -114,7 +116,7 @@
 | Hold | 4°C | ∞ ||
 
 <br>
-<h2><div  id="F"><b>Iodofragmentation</b></div></h2>
+### **Iodofragmentation** ### {#F}
 
 1. Prepare 50 mM Iodine in 100% ethanol
 2. Fragment the biotinylated forward strand by adding 2 uL iodione to 50-uL reaction
@@ -122,7 +124,7 @@
 4. Purify the fragmented PCR product with QIAGEN PCR clean-up kit
 
 <br>
-<h2><div  id="G"><b>DNA shearing and recovery</b></div></h2>
+### **DNA shearing and recovery** ### {#G}
 
 1. Purify the biotinylated forward strand using QIAGEN PCR clean-up kit
 2. Verify quality of the DNA with A260/A280 ratio– should be between 1.8 – 2.0
@@ -137,7 +139,7 @@
 11. Resuspend the pellet with nuclease-free water.
 
 <br>
-<h2><div  id="H"><b>Biotinylated DNA Isolation- Dynabeads</b></div></h2>
+### **Biotinylated DNA Isolation- Dynabeads** ### {#H}
 
 1. Wash 50 uL of the Dynabeads™ MyOne™ Streptavidin C1 (Invitrogen) with 1 mL 2X Binding and Washing (B&amp;W) buffer (10 mM Tris-HCl pH 7.5, 1.0 mM EDTA, 2.0 M NaCl)
 2. Place the tube on a magnetic rack for 2-3 minutes, then remove the solution
@@ -158,7 +160,7 @@
 17. Store ssDNA at -20°C until required
 
 <br>
-<h2><div  id="I"><b>Universal base addition – Terminal Transferase</b></div></h2>
+### **Universal base addition – Terminal Transferase** ### {#I}
 
 1. Prepare the reaction following:
 
@@ -176,7 +178,7 @@
 4. Store ssDNA at -20°C until required
 
 <br>
-<h2><div  id="J"><b>Full-length gene synthesis</b></div></h2>
+### **Full-length gene synthesis** ### {#J}
 
 1. PCR using Taq polymerase following:
 
@@ -206,7 +208,7 @@
 4. Store DNA at -20°C until required
 
 <br>
-<h2><div  id="K"><b>Universal base replacement</b></div></h2>
+### **Universal base replacement** ### {#K}
 
 1. PCR using Taq polymerase following:
 
@@ -371,7 +373,7 @@
 9. Incubate plates at 37C overnight
 <br>
 
-### **JUMP assembly [ref] : Golden Gate assembly platform**
+### **JUMP assembly ### [ref] : Golden Gate assembly platform**
 
 1. Determine the concentration of the assembly parts with Nanodrop
 2. Use DNA calculator (from Promega) to calculate fmol of each part
@@ -406,18 +408,6 @@ Level 1 assembly: BsaI-HF
 8. Transform the reaction directly to the competent cells
 <br>
 
-### **High-throughput screening of Cex**
-
-1. Spread mutants on LB/agar plate with 50 ug/mL Kanamycin and 0.01 mM IPTG
-2. Incubate at 37°C for 48 hours
-3. Prepare the screening solution by mixing 7.5 g agarose with 50 mL 1M Sodium phosphate buffer pH 6.5 and 400 mL distilled water
-4. Autoclave the screening solution
-5. Let the screening solution cooled down by incubating in the water bath at 48°C
-6. Add 50 mL of azo-xylan to the screening solution
-7. Pour the screening solution on top of the mutant agar plate
-8. Let the agarose set and incubate at 37°C for 6 hours, the visible halos indicating the working Cex enzyme
-<br>
-
 ### **Assembly enhancement**
 
 1. Incubate level 1 mutant library with BmtI endonuclease to cleave sfGFP but not Cex
@@ -433,7 +423,18 @@ Level 1 assembly: BsaI-HF
 2. Heat inactivate enzyme at 65°C for 20 minutes
 3. Directly transform 10-uL reaction to 100 uL _E.coli BL21_ (DE3) competent cells
 4. Plate on LB/Agar/Kan/IPTG plate for screening
+<br>
 
+### **High-throughput screening of Cex**
+
+1. Spread mutants on LB/agar plate with 50 ug/mL Kanamycin and 0.01 mM IPTG
+2. Incubate at 37°C for 48 hours
+3. Prepare the screening solution by mixing 7.5 g agarose with 50 mL 1M Sodium phosphate buffer pH 6.5 and 400 mL distilled water
+4. Autoclave the screening solution
+5. Let the screening solution cooled down by incubating in the water bath at 48°C
+6. Add 50 mL of azo-xylan to the screening solution
+7. Pour the screening solution on top of the mutant agar plate
+8. Let the agarose set and incubate at 37°C for 6 hours, the visible halos indicating the working Cex enzyme
 <br>
 [Back to top](#)
 
