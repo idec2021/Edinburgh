@@ -1,6 +1,6 @@
-# SeSaM protocol
+# Protocols
 <hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
-
+## SeSaM Protocols
 
 <br>
 <h2><div id="B"><b>dATPαS Calibration for Cex and Iodine Fragmentation</div></b></h2>
@@ -31,7 +31,7 @@
 
 3. After PCR, add 2 uL of 50 mM Iodine prepared in 100% ethanol to a 50-uL PCR
 4. Incubate the reaction at 70°C for 1 hour
-3. Run samples on agarose gel to analyse the fragmentation
+5. Run samples on agarose gel to analyse the fragmentation
 <br>
 <h2><div  id="CDE">Biotinylated DNA Generation</div></h2>
 
@@ -49,7 +49,6 @@
 | DIW | Total 50 uL ||
 
 \*Only add dATPaS when generating the biotinylated forward strand to be used regarding the original SeSaM protocol
-
 \*\*Use 5&#39;-biotinylated forward primer with non-biotinylated reverse primer for the biotinylated forward strand and use 5&#39;-biotinylated reverse primer with non-biotinylated forward primer for the biotinylated reverse strand.
 
 2. Set the thermal cycler according to the condition suggested below
