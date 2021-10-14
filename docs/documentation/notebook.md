@@ -239,7 +239,7 @@ Finally, an agarose gel was prepared and run but the results clearly showed some
 
 26/07/2021
 
-1. Resuspended primers to create 100 uM stock solution of mutagenic primers. Created another stock of 1 uM primers for asymmetric PCR.
+- Resuspended primers to create 100 uM stock solution of mutagenic primers. Created another stock of 1 uM primers for asymmetric PCR.
 
 || Final concentration |
 | --- | :---: |
@@ -272,15 +272,16 @@ Set up asymmetric reactions following protocol, where each reaction represented 
 
 The final concentration of every mutagenic primer is 25 nM.
 
-1. Run on 1% agarose gel with 1kb NEB ladder. 2 ul of PCR product mixed with 8 ul water and 2 ul 6x loading dye.
+- Run on 1% agarose gel with 1kb NEB ladder. 2 ul of PCR product mixed with 8 ul water and 2 ul 6x loading dye.
 
-![](RackMultipart20211014-4-1lr09cy_html_ac41e50b7d5c3fe9.png)
+<img width = "400" src="https://user-images.githubusercontent.com/92064762/137409470-2dd35298-b15c-4230-a070-8a03eff043a5.png">
 
 PCR product purified with QIAgen PCR clean up kit eluting in 30 ul water and DNA quantified with Jenway Nanodrop.
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+27/09/2021
 
-### 27/09/2021
-
-1. Megaprimer DNA used for following PCR as follows:
+- Megaprimer DNA used for following PCR as follows:
 
 || Final concentration |
 | --- | :---: |
@@ -302,7 +303,7 @@ At thermocycler conditions:
 | Extension | 72°C | 40 sec ||
 | Hold | 4°C | ∞ ||
 
-1. PCR product was then digested with DpnI to remove template DNA from gel.
+- PCR product was then digested with DpnI to remove template DNA from gel.
 
 || Final content in the reaction |
 | --- | :---: |
@@ -311,11 +312,11 @@ At thermocycler conditions:
 | 2.1 Buffer | 1X |
 | DIW | Total volume 100 uL |
 
-1. Digest loaded on gel for extraction at full-length:
+- Digest loaded on gel for extraction at full-length:
 
-![](RackMultipart20211014-4-1lr09cy_html_bc5438b7e7e3a19d.png)
+<img width = "800" src="https://user-images.githubusercontent.com/92064762/137409634-96fa124c-7b04-4cf3-8dcf-5f8158384509.png">
 
-1. Gel extracted with QIAgen gel extraction kit.
+- Gel extracted with QIAgen gel extraction kit.
 
 | Group | Gel weight | Dissolve buffer volume |
 | --- | :---: | :---: |
@@ -327,7 +328,7 @@ At thermocycler conditions:
 | B280 | 0.315 | 0.945 |
 | S280 | 0.39 | 1.17 |
 
-1. Set O/N JUMP assembly using long conditions.
+- Set O/N JUMP assembly using long conditions.
 
 || ug/ml | fmol/ul | **ul for 20fmol** | **Vol to add** | **fmoles** | Water to add |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -342,39 +343,45 @@ At thermocycler conditions:
 | (+) control | 8.94 | **10.58** | 3.78 | 3.78 | **40.000** | 12.16 |
 
 \* 1 in 4 dilution.
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 
-### 28/07/2021
+28/07/2021
 
-1. Transformation of assembly reaction into DH5a using transformation protocol.
+-Transformation of assembly reaction into DH5a using transformation protocol.
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+29/07/2021
 
-### 29/07/2021
+- Plate 50 ul on Amp/IPTG LB agar plate.
 
-1. Plate 50 ul on Amp/IPTG LB agar plate.
+- Miniprep and store rest for further assembly of library into Level 1 vectors.
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+30/07/2021
 
-1. Miniprep and store rest for further assembly of library into Level 1 vectors.
+- Three colonies picked from B200 plate and grown O/N in 5 ml LB with 5 ul Kanamycin.
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+31/07/2021
 
-### 30/07/2021
-
-1. Three colonies picked from B200 plate and grown O/N in 5 ml LB with 5 ul Kanamycin.
-
-### 31/07/2021
-
-1. O/N cultures miniprepped and sent for sequencing at Dundee Sequencing.
-
+-O/N cultures miniprepped and sent for sequencing at Dundee Sequencing.
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 ## September 2021
 
-### 6/09/2021
+6/09/2021
 
-1. Prepare 0.1 MgCl2 and 0.1 M CaCl2 for competent cells
-2. Prepare 50 mg/mL Kanamycin
-3. Prepare LB/agar plates: (-), carb, kan
-4. Inoculate DH5a with level 0 parts
+- Prepare 0.1 MgCl2 and 0.1 M CaCl2 for competent cells
+- Prepare 50 mg/mL Kanamycin
+- Prepare LB/agar plates: (-), carb, kan
+- Inoculate DH5a with level 0 parts
 
-- pJUMP19 – T7 pro\_P
-- pJUMP18 – B0034-MV\_RN
-- pJUMP19 – L1U1H08\_CT
+  - pJUMP19 – T7 pro\_P
+  - pJUMP18 – B0034-MV\_RN
+  - pJUMP19 – L1U1H08\_CT
 
-1. Nanodrop of OR library (Level 0)
+- Nanodrop of OR library (Level 0)
 
 | Sample | ng/uL |
 | --- | :---: |
@@ -383,14 +390,15 @@ At thermocycler conditions:
 | pJUMP18\_B230 | 604.1 |
 | pJUMP18\_B280 | 555.7 |
 | pJUMP18\_S280 | 281.4 |
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+7/09/2021
 
-### 7/09/2021
-
-1. Plasmid prep of Level 0 parts
-2. Prepare 60% glycerol
-3. Inoculate _E. coli_ BL21 (DE3) and _E. coli_ (DH5a)
-4. Streak Level 0 cells on LB/agar plates
-5. JUMP assembly of OR library
+- Plasmid prep of Level 0 parts
+- Prepare 60% glycerol
+- Inoculate _E. coli_ BL21 (DE3) and _E. coli_ (DH5a)
+- Streak Level 0 cells on LB/agar plates
+- JUMP assembly of OR library
 
 | Part | ng/uL | bp | fmol/uL | uL plasmid | uL DIW |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -408,18 +416,19 @@ At thermocycler conditions:
 Total volume 20 uL per reaction
 
 Add 1 uL of each part + 2 uL T4 ligase buffer + 1 uL BasI-HF V2 + 0.25 uL T4 ligase
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+8/09/2021
 
-### 8/09/2021
+-Make competent cells following the protocol
 
-1. Make competent cells following the protocol
+  - 200 mL of DH5a and 300 mL of BL21(DE3)
+  - Inoculate 1% and check OD600 after 1 hour
+   - DH5a 0.501
+   - BL21(DE3) 0.902
+  - Make 40 tubes of DH5a, 60 tubes of BL21(DE3)
 
-- 200 mL of DH5a and 300 mL of BL21(DE3)
-- Inoculate 1% and check OD600 after 1 hour
-  - DH5a 0.501
-  - BL21(DE3) 0.902
-- Make 40 tubes of DH5a, 60 tubes of BL21(DE3)
-
-1. Prepare B&amp;W buffer for Dynabeads
+- Prepare B&amp;W buffer for Dynabeads
 
 || Stock concentration | Final concentration | uL |
 | --- | :---: | :---: | :---: |
@@ -427,7 +436,7 @@ Add 1 uL of each part + 2 uL T4 ligase buffer + 1 uL BasI-HF V2 + 0.25 uL T4 lig
 | EDTA pH 8.0 | 0.5 M | 1 mM | 160 |
 | NaCl || 2 M | 9.35 g |
 
-1. PCR Cex without dATPaS for sonication and reverse biotinylated
+- PCR Cex without dATPaS for sonication and reverse biotinylated
 
 PCR for Forward biotinylated DNA without dATPaS for sonication
 
@@ -463,18 +472,19 @@ PCR condition:
 | Final extension | 72°C | 10 min ||
 | Hold | 4°C | ∞ ||
 
-1. 1% agarose gel, 5 uL ladder, 2 uL PCR products
+- 1% agarose gel, 5 uL ladder, 2 uL PCR products
 
 (left FB w/o dATPaS, right RB)
 
-![](RackMultipart20211014-4-1lr09cy_html_cf2c15c5f6ad864a.gif)
+<img width = "300" src="https://user-images.githubusercontent.com/92064762/137409926-d71c7cdf-304d-4b90-bf37-430b25b82b14.png">
 
-1. Purify PCR product – QIAGEN kit
-2. Prepare 0.5 M EDTA 500 mL pH 8.0
+- Purify PCR product – QIAGEN kit
+- Prepare 0.5 M EDTA 500 mL pH 8.0
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+9/09/2021
 
-### 9/09/2021
-
-1. Set PCR to calibrate dATPaS for Cex gene
+- Set PCR to calibrate dATPaS for Cex gene
 
 || Mastermix (x6) | 0.5 mM | 0.3 mM | 0.2 mM | 0.1 mM | 0.05 mM |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -490,7 +500,7 @@ PCR condition:
 
 PCR conditions follow the protocol
 
-1. Sonicate DNA (first attempt)
+- Sonicate DNA (first attempt)
 
 DNA conc should be 1-20 ng/uL : recommended = 10 ng/uL
 
@@ -498,7 +508,7 @@ Quality A260/A280 should be 1.8 – 2.0
 
 From Bioruptor pico protocol: DNA sonicated at amplitude 20%
 
-![](RackMultipart20211014-4-1lr09cy_html_20e026c173231afc.png)
+<img width = "600" src="https://user-images.githubusercontent.com/92064762/137410033-42fe1403-f27c-44de-b28a-5f062b93b4d7.png">
 
 Aim for 400 bp : sonicate pulse on 15, off 59
 
@@ -508,29 +518,30 @@ Prepare 9 tubes of 10 ng/uL, 500 uL DNA
 
 Shear DNA varying cycles of sonication 0-8 cycles
 
-1. Run 1% agarose gel of sonicated DNA
+- Run 1% agarose gel of sonicated DNA
 
 Use 5 uL ladder, 10 uL sample + 2 uL loading Dye
+<img width = "600" src="https://user-images.githubusercontent.com/92064762/137410056-f3ac61da-60e1-44fc-bf2f-9c292c216507.png">
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 
-![](RackMultipart20211014-4-1lr09cy_html_9236f77cf9b19326.gif)
+10/09/2021
 
-### 10/09/2021
-
-1. Run 1% agarose gel of iodofragmented DNA
+- Run 1% agarose gel of iodofragmented DNA
 
 Left-right: 0, 0.5, 0.3, 0.2, 0.1, 0.05 mM dATPaS
 
 2 uL sample, 10 uL 1 kb ladder
+<img width = "500" src="https://user-images.githubusercontent.com/92064762/137410106-0b922a7a-0bef-4381-94e7-5ce7418ff1ba.png">
 
-![](RackMultipart20211014-4-1lr09cy_html_1c61ca0ec406894a.gif)
 
-1. Run 2% agarose gel of sonicated DNA (same sample, repeat with higher percentage gel)
+- Run 2% agarose gel of sonicated DNA (same sample, repeat with higher percentage gel)
 
 100 bp ladder (Promega)
 
-![](RackMultipart20211014-4-1lr09cy_html_aa25dc871d6ff977.gif)
+<img width = "600" src="https://user-images.githubusercontent.com/92064762/137410135-bd55c881-a523-4d4c-b6dd-ab859ebfaedb.png">
 
-1. Try screening method using azo-xylan
+- Try screening method using azo-xylan
 
 Use E.coli BL21(DE3) with Lv.1 Cex on LB agar +Kan+ IPTG plate
 
@@ -538,30 +549,30 @@ Soak filter paper with 0.1 azo-xylan
 
 Put the filter paper on top of colony incubate 37°C leave for 6 hours
 
-1. PCR the FB Cex with dATPaS : follow the protocol
-2. Fragment FB PCR product : follow iodofragmentation protocol
+- PCR the FB Cex with dATPaS : follow the protocol
+- Fragment FB PCR product : follow iodofragmentation protocol
 
-1. Sonicate the rest of FB Cex (without dATPaS) – try large batch of DNA
+- Sonicate the rest of FB Cex (without dATPaS) – try large batch of DNA
 
-- For 500 uL sonicate amp 20%, on 15 sec, off 59 sec, 8 cycle (equal to 2 minutes)
-- For 5 mL : in 15 mL tube, try from 2 min up until enough fragmentation can be seen on gel (2% agarose in TAE, 135V, 20 min)
-- Left: 500 uL, Right: 5 mL – 2 min
+ - For 500 uL sonicate amp 20%, on 15 sec, off 59 sec, 8 cycle (equal to 2 minutes)
+ - For 5 mL : in 15 mL tube, try from 2 min up until enough fragmentation can be seen on gel (2% agarose in TAE, 135V, 20 min)
+ - Left: 500 uL, Right: 5 mL – 2 min
 
-![](RackMultipart20211014-4-1lr09cy_html_72e654bdfe8fb3ee.gif)
+<img width = "100" src="https://user-images.githubusercontent.com/92064762/137410182-0f0f4c52-7cf3-4bc6-9dfc-3846a6ed0236.png">
 
 - Left: 500 uL, 2 min, Right: 5 mL, 12 min (10 min longer)
-
-![](RackMultipart20211014-4-1lr09cy_html_28a04dd18a22d018.gif)
+<img width = "100" src="https://user-images.githubusercontent.com/92064762/137410213-d520b6c3-b400-45f3-91f6-9e4e7ee9369f.png">
 
 - Left: 500 uL, 2 min, Right: 5 mL, 22 min (10 min longer)
 
-![](RackMultipart20211014-4-1lr09cy_html_29e39d300b1d4a0b.gif)
+<img width = "100" src="https://user-images.githubusercontent.com/92064762/137410282-a88ae172-1104-4713-82b4-67b05053d636.png">
 
 - Left – Right: 2 uL PCR product, 5 uL 100 bp ladder, 20 uL of 500 uL DNA 8 cycles (spin down half way), 20 uL of 500 uL DNA 8 cycles straight, 20 uL of 5 mL DNA 27 min sonication
+<img width = "400" src="https://user-images.githubusercontent.com/92064762/137410315-16c7db6a-0223-47d1-bacc-fe944779fc1c.png">
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 
-![](RackMultipart20211014-4-1lr09cy_html_71383b5174fbf712.gif)
-
-### 13/09/2021
+13/09/2021
 
 1. Azo-xylan screening – nothing happens (leave in 37°C leave for 2 days)
 2. SeSaM – optimize the original protocol (see our team protocol)
