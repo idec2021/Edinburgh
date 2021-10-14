@@ -33,7 +33,7 @@
 <br>
 
 
-<em>
+
 References:
   [1] S2Biom Project Grant Agreement n°608622 D8.2 Vision for 1 billion dry tonnes lignocellulosic biomass as a contribution to biobased economy   by 2030 in Europe Delivery of sustainable supply of non-food biomass   to support a “resource-efficient” Bioeconomy in Europe. 2016 [cited 2021 Aug 12]; Available from: [www.s2biom.eu](https://www.google.com/url?q=http://www.s2biom.eu&sa=D&source=docs&ust=1634092249627000&usg=AOvVaw3PQoytey5l30alaoaJa8_K).
   [2] Abdel-Hamid AM, Solbiati JO, Cann IKO. Insights into Lignin  
@@ -46,7 +46,7 @@ Microbiol. 2013 Jan 1;82:1–28.
   [6] Delisi C. The role of synthetic biology in climate change mitigation. [cited 2021 Aug 12]; Available from: [https://doi.org/10.1186/s13062-](https://www.google.com/url?q=https://doi.org/10.1186/s13062-&sa=D&source=docs&ust=1634092249625000&usg=AOvVaw2f2GwyB0tBE7B5QMg9gsx9)  
 019-0247-8
   [7] Voigt CA. Synthetic biology 2020–2030: six commercially-available  products that are changing our world. Nat Commun 2020 111  [Internet]. 2020 Dec 11 [cited 2021 Aug 12];11(1):1–6. Available from:  [https://www.nature.com/articles/s41467-020-20122-2](https://www.google.com/url?q=https://www.nature.com/articles/s41467-020-20122-2&sa=D&source=docs&ust=1634092249626000&usg=AOvVaw0amXCs4S35g6trdfITesv4)
-</em>
+
 <br>
   
 [Back to top](#)
