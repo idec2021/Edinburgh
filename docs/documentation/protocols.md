@@ -25,16 +25,16 @@
   I --> J;
   J --> K(<b>Universal Base Replacement</b>);
 
-  click B "#B";
-  click C "#CDE";
-  click D "#CDE";
-  click E "#CDE";
-  click F "#F";
-  click G "#G";
-  click H "#H";
-  click I "#I";
-  click J "#J";
-  click K "#K";
+  click B "#B" "Protocol";
+  click C "#CDE" "Protocol";
+  click D "#CDE" "Protocol";
+  click E "#CDE" "Protocol";
+  click F "#F" "Protocol";
+  click G "#G" "Protocol";
+  click H "#H" "Protocol";
+  click I "#I" "Protocol";
+  click J "#J" "Protocol";
+  click K "#K" "Protocol";
 
   style A fill: #FFEBCD
   style B fill: #FFC0CB
@@ -408,11 +408,11 @@ Level 1 assembly: BsaI-HF
 
 ### **High-throughput screening of Cex**
 
-1. Spread mutants on LB/agar plate with 50 ug/mL Kanamycin and 0.01mM IPTG
-2. Incubate at 37C for 48 hours
+1. Spread mutants on LB/agar plate with 50 ug/mL Kanamycin and 0.01 mM IPTG
+2. Incubate at 37°C for 48 hours
 3. Prepare the screening solution by mixing 7.5 g agarose with 50 mL 1M Sodium phosphate buffer pH 6.5 and 400 mL distilled water
 4. Autoclave the screening solution
-5. Let the screening solution cooled down by incubating in the water bath at 48C
+5. Let the screening solution cooled down by incubating in the water bath at 48°C
 6. Add 50 mL of azo-xylan to the screening solution
 7. Pour the screening solution on top of the mutant agar plate
 8. Let the agarose set and incubate at 37°C for 6 hours, the visible halos indicating the working Cex enzyme
