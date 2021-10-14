@@ -54,8 +54,10 @@ Nadanai is a Chancellor&#39;s Fellow in Biotechnology at IQB3 at the University 
 </div>
 
 **Joanna Sadler**
+
+<img width = "300" src="https://user-images.githubusercontent.com/92064762/137403477-f8c97ea7-907a-4e80-b187-fda7e5edddeb.jpg">
 <div style="text-align: justify">
-Joanna is a Chancellor&#39;s Fellow in Biotechnology at IQB3 at the University of Edinburgh. Her research interest lies in using synthetic biology alongside synthetic chemistry to develop industrially relevant methods to valorise plastic waste into high value small molecules. She is also actively researching new biocompatible plastic degradation technologies and harnessing plastic waste as a feedstock from microbial growth.
+Joanna is a Discovery Fellow in Biotechnology at IQB3 at the University of Edinburgh. Her research interest lies in using synthetic biology alongside synthetic chemistry to develop industrially relevant methods to valorise plastic waste into high value small molecules. She is also actively researching new biocompatible plastic degradation technologies and harnessing plastic waste as a feedstock from microbial growth.
 </div>
 <br>
 [Back to top](#)
