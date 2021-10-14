@@ -574,8 +574,8 @@ Put the filter paper on top of colony incubate 37°C leave for 6 hours
 
 13/09/2021
 
-1. Azo-xylan screening – nothing happens (leave in 37°C leave for 2 days)
-2. SeSaM – optimize the original protocol (see our team protocol)
+-Azo-xylan screening – nothing happens (leave in 37°C leave for 2 days)
+-SeSaM – optimize the original protocol (see our team protocol)
 
 - PCR FB Cex with dATPaS and fragment DNA with iodine (8 reactions)
 - QIAGEN purification (8 reactions)
@@ -625,12 +625,13 @@ Put the filter paper on top of colony incubate 37°C leave for 6 hours
 | Extension | 68°C | 1 min 30 sec ||
 | Final extension | 68°C | 5 min | 1 |
 | Hold | 4°C | ∞ ||
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+14/09/2021
 
-### 14/09/2021
-
-1. Purify Full-length DNA, use Monarch kit, Elute with DIW 20 uL, do second elution using 10 uL
-2. Nanodrop full-length gene: Elute1 250.7 ng/uL, Elute2 33.4 ng/uL
-3. Universal base replacement use component following the protocol except DMSO, PCR condition follow the protocol (cond.1) and as follow (cond.2):
+-Purify Full-length DNA, use Monarch kit, Elute with DIW 20 uL, do second elution using 10 uL
+-Nanodrop full-length gene: Elute1 250.7 ng/uL, Elute2 33.4 ng/uL
+-Universal base replacement use component following the protocol except DMSO, PCR condition follow the protocol (cond.1) and as follow (cond.2):
 
 || Temperature | Time | Cycle |
 | --- | :---: | :---: | :---: |
@@ -641,77 +642,81 @@ Put the filter paper on top of colony incubate 37°C leave for 6 hours
 | Final extension | 68°C | 5 min | 1 |
 | Hold | 4°C | ∞ ||
 
-4. Run agarose gel of PCR product
+-Run agarose gel of PCR product
 
 Left-right: 2 uL PCR product (from step1), 5 uL 100 bp ladder, Condition1, Condition2
+<img width = "100" src="https://user-images.githubusercontent.com/92064762/137410442-95ecdf47-325b-45cc-9140-4b3172c73476.png">
 
-![](RackMultipart20211014-4-1lr09cy_html_9703a3741e03495d.gif)
 
-1. Run 2% agarose gel to investigate DNA recovery in each step of SeSaM
+-Run 2% agarose gel to investigate DNA recovery in each step of SeSaM
 
 _(__1-9) Forward-biotinylated DNA (1) First PCR product, (2) After iodofagmentation, (3) After QIAquick nucleotide clean-up, (4) Excess DNA unbound to the Dynabead, (5) NaOH melting from the Dynabead, (6) Eluted DNA in 0.1% SDS, (7) First ssDNA purification with Monarch PCR product &amp; DNA purification kit, (8) ssDNA purification after terminal transferase reaction, (9) DNA purified after the full-length gene synthesis. (10-15) Reverse biotinylated DNA (10) First PCR product, (11) After QIAquick nucleotide clean-up, (12) Excess DNA unbound to the Dynabead, (13) NaOH melting from the Dynabead, (14) Eluted DNA in 0.1% SDS, (15) ssDNA purification with Monarch PCR product &amp; DNA purification kit_
+<img width = "600" src="https://user-images.githubusercontent.com/92064762/137410475-e32bfc47-a573-4c39-b6e5-e78afc1c1ea5.png">
 
-![](RackMultipart20211014-4-1lr09cy_html_b73c1c45cdf781e.png)
 
-1. Prepare 3M Na-Acetate pH5.2, 500 mL
-2. Precipitate sonicated DNA following the protocol, in parallel concentrate DNA with QIAGEN kit – compare
-3. Run 2% agarose gel of concentrated DNA
+-Prepare 3M Na-Acetate pH5.2, 500 mL
+-Precipitate sonicated DNA following the protocol, in parallel concentrate DNA with QIAGEN kit – compare
+- Run 2% agarose gel of concentrated DNA
 
 Left-right: 2.5 uL 100 bp ladder, QIAGEN tube1,2, EtOH Precipitation 1,2
+<img width = "100" src="https://user-images.githubusercontent.com/92064762/137410498-677dfadc-917e-4a90-a7c2-9dfa4107880f.png">
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+15/09/2021
 
-![](RackMultipart20211014-4-1lr09cy_html_dcf28f404033600c.gif)
-
-### 15/09/2021
-
-1. Repeat last PCR again with DMSO (follow the protocol), also do control (use pJUMP19\_Cex as template), Do 2 PCR condition like last time
-2. Run 2% agarose gel
+-Repeat last PCR again with DMSO (follow the protocol), also do control (use pJUMP19\_Cex as template), Do 2 PCR condition like last time
+-Run 2% agarose gel
 
 Left-right( 2 uL in all wells): PCR product from step1, 100 bp ladder, control-cond1, last PCR-cond1, control-cond2, last PCR-cond2
 
 Control looks better using condition 1, thus only do condition1
 
-![](RackMultipart20211014-4-1lr09cy_html_550c987f6b079093.gif)
+<img width = "=300" src="https://user-images.githubusercontent.com/92064762/137410545-6ee4ea35-4df8-40be-a8a9-15c977160947.png">
 
-1. Do PCR again with diluted template: follow the protocol except use 1 ng full-length DNA
-2. Run 2% agarose gel to check the PCR product
+-Do PCR again with diluted template: follow the protocol except use 1 ng full-length DNA
+-Run 2% agarose gel to check the PCR product
 
 Left-Right: 2 uL PCR from step1, 5 uL DNA ladder, 2 uL control, 2 uL last PCR
 
-![](RackMultipart20211014-4-1lr09cy_html_804ab22c4e40ca0.gif)
+<img width = "100" src="https://user-images.githubusercontent.com/92064762/137410575-403dbd36-eef7-4208-bdb6-e2d5947a1f81.png">
 
-1. Desalt full-length DNA following the protocol
-2. Do last PCR again using the desalted DNA: follow the protocol, except use 10 ng and 20 ng template
-3. Try azo-xylan screening: follow the protocol (but did not sterile the solution and leave incubated O/N)
+-Desalt full-length DNA following the protocol
+-Do last PCR again using the desalted DNA: follow the protocol, except use 10 ng and 20 ng template
+-Try azo-xylan screening: follow the protocol (but did not sterile the solution and leave incubated O/N)
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 
-### 16/09/2021
+16/09/2021
 
-1. Run 2% agarose gel of the last PCR (desalted DNA)
+-Run 2% agarose gel of the last PCR (desalted DNA)
 
 Left-Right: 5 uL 100 bp DNA ladder, 2 uL control, 2 uL 10 ng template, 20 ng template
 
-![](RackMultipart20211014-4-1lr09cy_html_df77a7b5af0c6802.gif)
+<img width = "100" src="https://user-images.githubusercontent.com/92064762/137410629-4f3084d1-1725-46fc-b633-d58ba7e299bf.png">
 
-1. Used up all full-length DNA: do Dynabeads again (follow the protocol), Use the concentrated, sonicated DNA in parallel \&gt; do SeSaM up to the full-length synthesis
-2. Image the screening plates
+-Used up all full-length DNA: do Dynabeads again (follow the protocol), Use the concentrated, sonicated DNA in parallel \&gt; do SeSaM up to the full-length synthesis
+-Image the screening plates
 
-![](RackMultipart20211014-4-1lr09cy_html_94763361937d4348.gif)
+<img width = "300" src="https://user-images.githubusercontent.com/92064762/137410677-efe38699-aaf3-4adc-9c65-e58ae7585abe.png">
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+17/09/2021
 
-### 17/09/2021
-
-1. Purify full-length DNA and nanodrop:
+-Purify full-length DNA and nanodrop:
 
 Sonicted DNA: 113.8 ng/uL, dATPaS DNA: 225.0 ng/uL
 
-1. Do last PCR following the protocol, but varu DNA template 1, 30, and 60 ng. Use both sonicated DNA and dATPaS DNA
-2. Run 2% agarose gel
+- Do last PCR following the protocol, but varu DNA template 1, 30, and 60 ng. Use both sonicated DNA and dATPaS DNA
+- Run 2% agarose gel
 
-![](RackMultipart20211014-4-1lr09cy_html_9ef483f1d7b9b4a.png)
+<img width = "500" src="https://user-images.githubusercontent.com/92064762/137410749-ea3bfb92-d102-49ff-ba97-8b33ee82528b.png">
 
-1. Prepare azo-xylan screeing solution following the protocol
+-Prepare azo-xylan screeing solution following the protocol
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+20/09/2021
 
-### 20/09/2021
-
-1. Try MUX and MUC screening : replace the azo-xylan screeni g solution with 0.1 mM MUX or MUC, visualize after 6 hours
+- Try MUX and MUC screening : replace the azo-xylan screeni g solution with 0.1 mM MUX or MUC, visualize after 6 hours
 
 ![](RackMultipart20211014-4-1lr09cy_html_72ab93c3be84e70b.gif) ![](RackMultipart20211014-4-1lr09cy_html_985c4ec5ba75adcc.gif)
 
