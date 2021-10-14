@@ -765,6 +765,10 @@ Sonicted DNA: 113.8 ng/uL, dATPaS DNA: 225.0 ng/uL
 30/09/2021
 
 -Image the screening plates
+<img width = "900" src="https://user-images.githubusercontent.com/92064762/137411190-fac662af-d50f-4ada-922a-38cbe016eeeb.png">
 
 -The BmtI digestion result in significantly reducing green colonies
+<br>
+
+
 
