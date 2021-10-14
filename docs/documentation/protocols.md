@@ -185,3 +185,5 @@
 3. Run PCR product on 2% agarose gel and perform gel purification
 4. Store DNA at 20°C until required
 
+# GeneORator Protocol
+# General Protocols
