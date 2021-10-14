@@ -717,53 +717,54 @@ Sonicted DNA: 113.8 ng/uL, dATPaS DNA: 225.0 ng/uL
 20/09/2021
 
 - Try MUX and MUC screening : replace the azo-xylan screeni g solution with 0.1 mM MUX or MUC, visualize after 6 hours
+<img width = "600" src="https://user-images.githubusercontent.com/92064762/137410897-02e24868-3d04-48f6-ad2d-7c844e1a81fd.png">
 
-![](RackMultipart20211014-4-1lr09cy_html_72ab93c3be84e70b.gif) ![](RackMultipart20211014-4-1lr09cy_html_985c4ec5ba75adcc.gif)
+- JUMP assembly of SeSaM library (sonicated DNA) : do Level 1 assembly (use short cycle protocol)
+- Transform assembly to E.coli BL21(DE3)
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+21/09/2021
 
-1. JUMP assembly of SeSaM library (sonicated DNA) : do Level 1 assembly (use short cycle protocol)
-2. Transform assembly to E.coli BL21(DE3)
+- Did not obtain many white colonies fro the assembly
+- JUMP assembly of SeSaM library (sonicated DNA) : do Level 1 assembly (long cycle)
+- JUMP assembly of OR library
+- Do last PCRof SeSaM using the full-length gene of sonicated DNA again
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+22/09/2021
 
-### 21/09/2021
+-Gel purification of PCR product from SeSaM of the sonicated DNA
+- Do Level 0 assembly of SeSaM library
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+23/09/2021
 
-1. Did not obtain many white colonies fro the assembly
-2. JUMP assembly of SeSaM library (sonicated DNA) : do Level 1 assembly (long cycle)
-3. JUMP assembly of OR library
-4. Do last PCRof SeSaM using the full-length gene of sonicated DNA again
+- Colony PCR of white colonies obtained from the Level 0 assembly
+- Run 1% agarose gel to check the PCR result
+<img width = "800" src="https://user-images.githubusercontent.com/92064762/137410987-d3547b49-bb27-4514-aab9-2d86991c2286.png">
+- Inoculate all positive colonies
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
 
-### 22/09/2021
+24/092021
 
-1. Gel purification of PCR product from SeSaM of the sonicated DNA
-2. Do Level 0 assembly of SeSaM library
+-Plasmid extraction of 24 clones
+-Run 1% agarose gel compare with wild type
+<img width = "600" src="https://user-images.githubusercontent.com/92064762/137411039-f3a3d5fa-f157-45ec-83b6-499d326f7aa7.png">
 
-### 23/09/2021
+-Send 23 plasmids for sequencing
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+29/09/2021
 
-1. Colony PCR of white colonies obtained from the Level 0 assembly
-2. Run 1% agarose gel to check the PCR result
+-Do Cex screening with azo-xylan: incubate for 6 hours, follow the protocol
 
-![](RackMultipart20211014-4-1lr09cy_html_62565acbd7616460.gif)
+-Try the BmtI digestion to enhance the assembly (follow the protocol)
+<br>
+<hr style="height:1.5px;border:none;color:#808080;background-color:#808080;" />
+30/09/2021
 
-1. Inoculate all positive colonies
+-Image the screening plates
 
-### 24/092021
-
-1. Plasmid extraction of 24 clones
-2. Run 1% agarose gel compare with wild type
-
-![](RackMultipart20211014-4-1lr09cy_html_9a2d1c54ea5eb2c3.gif)
-
-1. Send 23 plasmids for sequencing
-
-### 29/09/2021
-
-1. Do Cex screening with azo-xylan: incubate for 6 hours, follow the protocol
-
-1. Try the BmtI digestion to enhance the assembly (follow the protocol)
-
-### 30/09/2021
-
-1. Image the screening plates
-
-![](RackMultipart20211014-4-1lr09cy_html_9e8fc95af6821bad.png)
-
-1. The BmtI digestion result in significantly reducing green colonies
+-The BmtI digestion result in significantly reducing green colonies
 
