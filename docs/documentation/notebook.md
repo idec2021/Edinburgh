@@ -1,6 +1,3 @@
-# Lab notebooks
-
-
 # Lab Notebook
 
 ## June 2021
